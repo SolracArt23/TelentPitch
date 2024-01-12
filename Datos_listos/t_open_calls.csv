@@ -1,0 +1,812 @@
+,name,thematic_area_id,thematic_area,requirements,work_methods,requirements_1,requirements_2,requirements_3,requirements_4
+0,¿Cómo podríamos crear una estrategia para que el consumidor compre los productos complementarios al principal (venta cruzada)?,19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+1,Analista marketplace,11,market,recursos,in_house,experiencia,recursos humanos,macros,talento
+2,Asistente Administrativo y Marketing,17,consumer,planes,virtual,cultura,digital,redes sociales,herramientas
+3,atención al cliente - personas sin experiencia edad 22 años,17,consumer,experiencia,in_house,atencion al cliente,transporte,indicadores,persona
+4,auxiliar administrativo/a / Contabilidad,16,finance,administrativo,in_house,alimentos,manejo,experiencia,auxiliar
+5,Asesor de servicio al cliente (Aplica bachilleres) - Lunes a Sábado.,17,consumer,experiencia,in_house,servicio,servicio al cliente,equipo,no
+6,Líder de bodega - Floridablanca,7,communications,trabajo,in_house,empresa,habilidades,desarrollo,equipo
+7,¿Cómo podríamos reinventar el proceso de embalaje desde la logística para hacerlo más eficiente?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+8,CEO,8,design,conocimiento,in_house,bases,mantenimiento,recursos,financiera
+9,Pasante de desarrollo,6,tech,c#,mixed,unity,seacher,programacion,ninguna
+10,Ingeniero de desarrollo TS Col.,13,product,trabajo,in_house,profesional,desarrollo,.,equipo
+11,Director IT - Siberia,6,tech,recursos,in_house,desarrollo,talento humano,empresa,proyectos
+12,Cajero y Asesor de Servicio al cliente - sector financiero Urgente,17,consumer,manejo,in_house,experiencia,servicios,financiero,caja
+13,ANALISTA DE EXPERIENCIA DEL PACIENTE - 2169991,6,tech,manejo,in_house,sistema,servicios,indicadores,negocios
+14,¿Cómo podríamos posicionar un nuevo producto en el mercado y el target al cual queremos llegar?,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+15,¿Cómo podríamos aplicar el concepto de E-Commerce (comercio por Internet) en la organización para vender nuestros productos/servicios respondiendo a las necesidades de los usuarios?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+16,Analista Mejora Continua - Girardota,13,product,equipo,in_house,mejora,trabajo,herramientas,operaciones
+17,Auxiliar Contable,6,tech,financiera,in_house,experiencia,equipo,inventarios,sistemas
+18,¿Cómo podríamos iniciar mercados internacionales que respondan positivamente con los servicios/productos actuales?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+19,Pitch en vivo: Roles del futuro,4,strategy,procesos,to_be_agreed,proyectos,tendencias,empresarial,reclutamiento
+20,Jefe de tienda/ Supermercados/ Puerto Tejada Cauca,13,product,manejo,in_house,servicios,mejoramiento continuo,trabajo,empresa
+21,Director Control de Cuentas- Medellin,16,finance,profesional,"[""a""]",financiera,experiencia,equipo,manejo
+23,¿Cómo podríamos mejorar el entorno laboral en nuestra planta para disminuir los riesgos/accidentes de nuestros trabajadores?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+24,¿Cómo podríamos medir el impacto generado por las capacitaciones en el nuevo personal de la organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+26,Agente de encuestas telefónicas.,7,communications,experiencia,virtual,habilidades,marketing,aprender,equipo
+27,Coordinador Comercial / Disponibilidad inmediata,19,sales,trabajo,"[""a""]",empresa,recursos,alimentos,experiencia
+28,Work From Home Brand Development Manager / Ref. 0886E,11,market,software,in_house,visual,branding,teams,marketing
+29,¿Cómo podríamos reutilizar uno de los materiales usados en la organización para disminuir el impacto ambiental?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+30,¿Cómo podríamos conectar a nuestros empleados con la cultura de la organización por medio de una estrategia de gamificación divertida?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+31,"Corazones de papel
+¿Cual tan importante es la alimentación saludable para los niños? Enfocan el producto pero con ellos llenaremos más corazones sanos",13,product,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+32,¿Cómo podríamos obtener la información estratégica de nuestros usuarios para apoyar la toma de decisiones?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+33,¿Cómo podríamos usar la inteligencia artificial para mejorar procesos al interior de nuestra organización?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+34,Auxiliar Ventas Caja,17,consumer,talento humano,in_house,terminal,servicio,empresa,operaciones
+35,Auxiliar de Servicio al Cliente para Soacha,17,consumer,manejo,in_house,servicio,empresa,experiencia,indicadores
+36,Ingeniero de Desarrollo,6,tech,.net y angular,virtual,relaciones,angular,macros,talento
+37,Convocatoria Asesor Comercial o servicio al cliente Externo Tocaima,17,consumer,experiencia,in_house,comercial,trabajo,mejora,servicio
+38,¿Cómo podríamos ingeniar una forma de aprovechar los tiempos muertos en el trabajo de una forma productiva y divertida?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+39,Analista de Operaciones Financieras,16,finance,no,in_house,plataformas,manejo,informes,trabajo
+40,¿Cómo podríamos diseñar un modelo salarial viable para nuestros empleados estratégicos?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+41,Gerente/ Director de oficina sector financiero o cooperativa,13,product,servicio,in_house,experiencia,social,comercial,financiero
+42,"¿Cómo podríamos disminuir los cuellos de botella en la producción, incrementando la eficacia de los procesos?",15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+43,Shopify Web Developer - Práctica,6,tech,inglés,virtual,ecommerce,proactividad,desarrollo web,power
+44,¿Cómo podríamos conectar los diferentes canales de comunicación con los clientes (omnicanalidad)?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+45,Analista testing |MULTIENLACE,6,tech,casos de pruebas,to_be_agreed,pruebas funcionales, no funcionales,gestión de requisitos, control de cambios
+46,¿Cómo podríamos optimizar el proceso de inventario con el uso de herramientas tecnológicas?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+47,Analista Diseño Organizacional,8,design,responsabilidad,virtual,digital,estrategia,mejoramiento continuo,procesos
+48,Practicantes para Nutrium 2023-2,11,market,desarrollo,in_house,dibujo,comunicacion,financiera,redes
+49,Auxiliar Operativo,17,consumer,servicio,in_house,empresa,manejo,experiencia,salud
+50,Graphic Designer,8,design,marketing,in_house,mercado,power,aprender,finanzas
+51,¿Cómo aportar al desarrollo de la cultura organizacional desde la programación?,6,tech,php,to_be_agreed,javascript,mysql,trabajo en equipo,comunicación
+52,Store Manager Mayorca OCS,7,communications,caja,in_house,cultura,digital,proyectos,operaciones
+53,Coordinador de Desarrollo y Diseños - Publicidad,8,design,trabajo,virtual,modelado,experiencia,lectura,diseño
+54,Auxiliar contable y recursos humanos - Gran oportunidad laboral,9,talent,empresa,"[""a""]",trabajo,experiencia,auxiliar,inventarios
+55,Administrador de tienda- Medellín sur,13,product,planes,virtual,trabajo,aprender,equipo,responsabilidad
+56,¿Cómo podríamos incitar a nuestros usuarios a hacer parte de una comunidad de seguidores de nuestra marca?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+57,¿Cómo podríamos identificar un mercado potencial en el que no se encuentre la organización actualmente?,11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+58,¿Cómo podríamos dar valor agregado a nuestros productos a partir del diseño de nuevos accesorios?,8,design,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+59,mucho blaaaaaaaa,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+60,¿Cómo podríamos implementar modelos de energía renovable que funcione en alguna de las áreas de nuestra organización?,1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+61,DISEÑADORA COMERCIAL conocimientos en COREL y EXCEL,8,design,bases,in_house,experiencia,servicio,arte,capacidad
+62,Representante Apoyo Comercial Bogotá,13,product,paquete,in_house,mercado,desarrollo,responsabilidad,consulta
+63,Coordinador nacional de ventas,11,market,estrategias,in_house,equipo,comercial,servicios,servicio
+64,Líder de gestión ambiental - Barranquilla,13,product,manejo,in_house,sistema,reclutamiento,estrategias,ambiental
+65,AUXILIAR ADMINISTRATIVO,16,finance,alimentos,in_house,experiencia,administrativo,auxiliar,auxiliar administrativo
+66,"Asesoría comercial, comunicación asertiva, atención al cliente.",19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+67,Business Manager,6,tech,herramientas,"[""a""]",procesos,negocios,manejo,reclutamiento
+68,¿Cómo podríamos cautivar a nuevos consumidores con los servicios ofrecidos actualmente?,11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+69,¿Cómo podríamos lograr que nuestros clientes actuales se conviertan en embajadores de nuestra marca?,11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+70,¿Cómo podríamos dar valor agregado a nuestros productos a partir del diseño de nuevos accesorios?,8,design,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+71,Jefe de Riesgos Financieros,16,finance,equipo,in_house,aprender,riesgos financieros,desarrollar,control
+72,diseñador/a industrial o grafico,8,design,capacidad,in_house,creatividad,diseño,desarrollar,industrial
+73,Ingeniero Implementador Junior,6,tech,php,in_house,java,javascript,mysql,sql server
+74,agente backoffice/ Pqr Escritos / exp mínima 1 año,17,consumer,experiencia,in_house,transporte,perfil de cliente,transporte,idiomas
+75,PASANTÍA ACADÉMICA TECNOLOGÍA SURA- OCTUBRE 2023,6,tech,universidad,in_house,telecomunicaciones,infraestructura,sistemas,ninguna
+76,AUXILIAR DE VENTAS CAJA MEDELLIN,17,consumer,servicio,in_house,ventas,experiencia,caja,terminal
+77,¿Cómo podríamos mejorar un proceso para incrementar nuestra productividad?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+78,¿Cómo podríamos aplicar modelos de analítica para la toma decisiones?,4,strategy,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+79,¿Cómo podríamos crear un modelo predictivo para determinar la vida útil de un producto o servicio?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+80,¿Cómo podríamos disminuir el daño de nuestra mercancía en el proceso de logística (transporte/venta/fabricación)?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+81,¿Cómo podríamos mejorar la satisfacción de nuestros empleados para disminuir la deserción en la organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+82,Analista de Datos Junior,6,tech,trabajar en equipo,in_house,capacidad,trabajo,operaciones,habilidades
+83,Analista de capacitación,7,communications,trabajo,"[""a""]",alimentos,empresa,recursos humanos,indicadores
+84,¿Cómo podríamos predecir cuándo es necesario un insumo para evitar demoras en el proceso de producción?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+85,Jefe de Ventas Canal TAT Bogotá,11,market,liderazgo,virtual,capacidad,no,estrategias,negocios
+86,Fraud Prevention Senior Analyst,16,finance,teams,in_house,world,data,software,work
+87,¿Cómo podríamos mejorar la interfaz de la plataforma o la app de la organización para hacer más agradable la experiencia del usuario?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+88,Asesor de chat / Servicio al cliente - Solo Via Chat,17,consumer,experiencia,"[""a""]",jenkins, no funcionales,auxiliar,datos
+89,¿Cómo podríamos crear una estrategia de trabajo en convenio con los proveedores para incrementar la eficiencia en nuestro trabajo?,3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+90,Marketing Specialist,7,communications,experiencia,in_house,estrategias,recursos humanos,marketing,recursos
+92,Operario de empaque y estibado,13,product,recursos,in_house,empresa,procesos,equipo,trabajo
+93,¿Cómo podríamos implementar el trabajo remoto al interior de nuestra organización?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+94,COORDINADOR COMERCIAL,11,market,no,in_house,informes,mercado,desarrollar,trabajo
+95,¿Cómo podríamos optimizar la atención de los puntos de venta para mejorar la experiencia del cliente?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+96,Poder colocar un desarrollados a trabajar en UX,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+97,¿Cómo podríamos demostrar nuestras mejores cualidades cómo organización empleadora por medio de nuestras comunidades (redes/blog/página)?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+98,Urgente - Asesor Comercial Bogota con o sin experiencia,19,sales,empresa,"[""a""]",transporte,comercial,servicios,trabajo
+99,¿Cómo podríamos implementar modelos de realidad aumentadada en nuestros servicios/productos/procesos para generar valor agregado a nuestra organización?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+101,¿Cómo podríamos usar la inteligencia artificial para mejorar procesos al interior de nuestra organización?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+102,Contador - Bogotá,16,finance,equipo,in_house,recursos,trabajo,recursos humanos,empresa
+103,Analista - Recursos Humanos y Nomina,9,talent,seguridad,in_house,recursos,administrador,informes,manejo
+104,Tester Junior,8,design,cultura,in_house,ninguna,experiencia,no,servicios
+105,Practicante Sistemas Precios y Costos,13,product,software,virtual,manejo,bases,experiencia,capacidad
+106,Psicólogo/A Con Licencia En Seguridad Y Salud En El Trabajo,9,talent,profesional,in_house,coaching,informes,servicios,herramientas
+107,¿Cómo podríamos implementar un modelo de horario flexible que beneficie tanto a nuestros trabajadores como a la organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+108,Científico de Datos Jr.,6,tech,python,mixed,sql,ciencia de datos,estadística,matemática
+109,Practicante Universitario - Diseño Grafico/Mercadeo/Visual,8,design,redes,in_house,redes sociales,desarrollo,presupuestos,inventarios
+110,Jefe Gestion Comercial - Medicamentos,13,product,modelos,in_house,especializacion,experiencia,sistema,bienestar
+111,Químico Farmacéutico,6,tech,analizar,in_house,auditoria,servicio,calidad,no
+112,CUSTOMER SERVICE TELEPHONE INTERPRETER - Advanced English – level C1 or higher - Remote,17,consumer,access,in_house,internet,experiencia,mejoramiento continuo,modelos
+113,18981-Técnico de Soporte,6,tech,soporte,in_house,sistemas,servicio,bases de datos,consulta
+114,Desarrollador de Sistemas,13,product,trabajo,virtual,conocimiento,experiencia,git,profesional
+115,Líder de impresión -Cali,13,product,manejo,in_house,calidad,indicadores,experiencia,planes
+116,Analista de Plataforma de Contacto,7,communications,experiencia,in_house,herramientas,plataformas,publicidad,manejo
+117,¿Cómo podríamos crear una estrategia para que el consumidor compre los productos complementarios al principal (venta cruzada)?,19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+118,Agente call center// servicio al cliente.,17,consumer,experiencia,in_house,recursos humanos,servicio,analisis,recursos
+119,¿Cómo podríamos conectar los diferentes canales de comunicación con los clientes (omnicanalidad)?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+120,Desarrollador Backend PHP/Laravel,6,tech,php,virtual,laravel,inglés,normatividad,ninguna
+122,¿Cómo podríamos desarrollar una campaña de comunicación masiva qué sea efectiva con clientes nuevos y antiguos?,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+123,Aprendiz Contabilidad,16,finance,auxiliar,in_house,caja,trabajo en equipo,postgressql,transporte
+124,Asistente Administrativo En Sector Salud,17,consumer,auxiliar,in_house,experiencia,bienestar,trabajo en equipo,soporte
+126,¿Cómo podríamos crear un movimiento de voluntariado masivo que siga nuestras creencias organizacionales?,1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+127,operarios de producción Envigado,13,product,servicios,in_house,experiencia,empresa,paquete,jenkins
+128,Operarios de Plastico y Empaque Funza y/o alrededores,13,product,empresa,in_house,experiencia,analista,comercio,entrenamiento
+129,Auxiliar administrativo,17,consumer,administrativo,in_house,manejo,bienestar,trabajo,experiencia
+130,Como crear un sistema que permita efectividad en el proceso de operaciones.,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+131,¿Cómo podríamos aumentar la frecuencia de compra de productos/servicios de la organización?,3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+132,Global VP of Talent & Culture | LATAM Regional Head,5,legal,risk,virtual,work,big,data,power
+133,Operario de producción sector fármacos o laboratorio,13,product,experiencia,in_house,materiales,no,empresa,transporte
+134,¿Cómo podríamos disminuir el gasto de energía en la producción?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+135,Administrativo en Facturación,16,finance,ventas,"[""a""]",datos,finanzas,experiencia,coordinar
+136,Analista jurídico,5,legal,empresa,in_house,desarrollo,operaciones,transporte,bienestar
+137,UX/UI Designer Ssr,8,design,desarrollar,in_house,mejora,empresa,procesos,desarrollo
+138,Innovación,8,design,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+139,Consultor Ventas TI,6,tech,recursos,in_house,empresa,servicios,recursos humanos,experiencia
+140,Asistente Legal Bilingüe,5,legal,aprender,in_house,experiencia,bases,compromiso,bienestar
+141,Analista CRM,13,product,profesional,in_house,responsabilidad,servicio,bases de datos,toma de decisiones
+142,¿Cómo podríamos crear conciencia mediante un nuevo sistema de responsabilidad social empresarial (RSE) que genere un impacto positivo?,1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+143,ANALISTA GESTION HUMANA,9,talent,herramientas,in_house,equipo,informes,persona,social
+144,Licenciada en pedagogía /preescolar - Experiencia en primera infancia,13,product,experiencia,in_house,desarrollo,relaciones,proyectos,soporte
+145,Profesional de Planeación y Presupuesto,16,finance,experiencia,"[""a""]",manejo,conocimiento,control,internet
+146,Gestor de mejora - Tecnologos y/o ingenieros industriales,5,legal,trabajo,"[""a""]",transporte,mejora,profesional,manejo
+147,Analista de pruebas móviles,6,tech,automatización movil,in_house,appium,katalon,appium studio,java
+148,Asistente de Marca,11,market,experiencia,"[""a""]",idiomas,soporte,capacidad,consulta
+149,Desarrollador comercial experiencia distribuidoras para trabajar en duitama,11,market,comercial,in_house,experiencia,desarrollo,ventas,modelos
+150,Analista de Adquisición de Sitios,5,legal,redes,in_house,comercial,social,responsabilidad,digital
+151,Operario (ayudante) de Obra para trabajar en Cota,13,product,empresa,in_house,transporte,equipo,trabajo,experiencia
+152,ANALISTA DE MERCADEO - BOGOTÁ,11,market,empresa,in_house,administrador,equipo,trabajo,experiencia
+153,Frontend UX,8,design,software,virtual,mantenimiento,control,transporte,negocios
+154,Aprendiz en sistemas/soporte técnico - Para firmar contrato de aprendizaje,6,tech,soporte,virtual,mantenimiento,aprendizaje,redes,experiencia
+155,Profesional en gestión de datos - negocios digitales,16,finance,visual,in_house,equipo,recursos,macros,experiencia
+156,¿Cómo adquirir o mejorar el conocimiento en un campo estratégico para reinventar un producto o servicio?,13,product,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+157,¿Cómo podríamos diseñar un protocolo de servicio al cliente estandarizado en redes?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+158,Líder de Marketing Digital,11,market,google,in_house,no,cadena,plataformas,estrategias
+159,meseros,17,consumer,servicio,in_house,profesional,servicio al cliente,desarrollar,capacidad
+160,Jefe de Operaciones / Jefe de Restaurantes o plazoletas de comida,7,communications,empresa,in_house,equipo,persona,trabajo,manejo
+162,¿Cómo podríamos disminuir de alguna forma el impacto ambiental en nuestra producción ?,1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+163,Analista de Créditos (Fraudes),16,finance,profesional,in_house,experiencia,herramientas,finanzas,empresa
+164,Copia de: ANALISTA DE MONITOREO Y CALIDAD DE APLICACIONES - FERIA DE EMPLEABILIDAD,6,tech,ingeniería de sistemas,to_be_agreed,ingenieria,oracle,empresarial,redes
+165,Operarios de Empaque- Cali,13,product,experiencia,in_house,control,desarrollo,procesos,costos
+166,Asistente de servicio al Cliente sector industrial,17,consumer,industrial,virtual,trabajo,empresa,profesional,recursos
+167,Bachiller con o sin experiencia,13,product,experiencia,in_house,servicio,mysql,webservice,comercio
+169,Analista de Experiencia de Servicio,13,product,excel intermedio,mixed,servicio cliente,asertividad,escucha activa,office 365 intermedi
+170,Administrador de nube azure,6,tech,azure fundamentals,mixed,azure administrator,azure architect,azure devops enginee,datos
+171,Analista Funcional 2,6,tech,sistemas,"[""a""]",sistema,procesos,proyecto,mejora
+172,Urgente Agente call center con o sin experiencia respuesta inmediata,5,legal,recursos humanos,virtual,trabajo,recursos,experiencia,equipo
+175,Trabajo Desde Casa Pasantes para Recruiting / Ref. 0050S,9,talent,profesional,"[""a""]",proyectos,empresa,calidad,capacidad
+176,Especialista de Adquisiciones y Donaciones - USAID/Colombia Sustainable Agriculture Activity,16,finance,control de calidad,virtual,mercados,social,equipo,cinco
+177,¿Cómo podríamos generar nuevas estrategias para hacer más eficiente el proceso de carga y descarga de mercancía en los vehículos?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+178,Estandarización de información en el servicio al consumidor,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+179,Facilitador Jr de canales,7,communications,empresa,in_house,equipo,habilidades,trabajo,indicadores
+180,¿Cómo podríamos desarrollar una forma de detectar fallas en datos organizacionales para garantizar fácilmente su calidad?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+181,Ejecutivo de Cuenta,7,communications,equipo,in_house,persona,empresarial,experiencia,comercio
+182,Auxiliar de redes sociales con experiencia en PQRS Comunicadores sociales o periodistas - Lugar de trabajo Parque Celta Trade - Vacaciones,7,communications,auxiliar,"[""a""]",trabajo,experiencia,periodismo,manejo
+183,"Dllo gráfico ¿Cómo podríamos formar a la base de la construcción(técnicos, mamposteros, constructores) para que estos tengan los conceptos básicos de interpretación y aplicación de  BIM?",8,design,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+184,Entrenador Personalizado Bodytech - Armenia,8,design,servicios,in_house,experiencia,entrenamiento,diseño,recursos humanos
+185,Auxiliar de facturacion masiva/ disponibilidad inmediata,17,consumer,trabajo,in_house,empresa,facturacion,recursos,alimentos
+186,¿Cómo podríamos mejorar la comunicación con nuestros empleados para brindarles un buen ambiente laboral?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+187,"operarios de produccion convocatoria lunes 06 de febrero 2023 - Vivir en chía, Zipaquira o zonas aledañas",13,product,recursos,"[""a""]",empresa,servicio,produccion,experiencia
+188,¿Cómo podríamos implementar un servicio de vehículo compartido (carpooling) para los miembros de nuestra organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+190,Gran Oportunidad! Buscamos Asesores de Servicio al Cliente/BO/Chat 6 meses de experiencia,17,consumer,servicios,in_house,experiencia,equipo,paquete,jenkins
+191,Commercial Excellence Leader - Cala and Mexico,6,tech,cultura,in_house,experiencia,ventas,procesos,analizar
+192,¿Cómo podríamos hacer un proceso de selección de los mejores talentos para incluirlos en nuestra organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+194,Asesor de servicio al cliente Zona norte,17,consumer,trabajo,virtual,servicio al cliente,cadena,experiencia,servicio
+196,¿Cómo podríamos calcular los indicadores de productividad para mejorarlos mediante la visualización de estos?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+197,OPERADOR MULTIFUNCIONAL SANTA MARTA,17,consumer,mercadeo,in_house,servicio,cadena de suministro,calidad,terminal
+198,Lider de Mejora Continua y Calidad,13,product,experiencia,in_house,herramientas,mejora,sistemas,servicios
+199,coordinador/a - Gestión Humana,9,talent,bienestar,in_house,manejo,conocimiento,salud,procesos
+200,¿Cómo podríamos mejorar la comunicación con nuestros empleados para brindarles un buen ambiente laboral?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+201,operario/a de Confeccion -6 meses de experiencia,13,product,experiencia,in_house,servicios,empresa,transporte,productividad
+202,Coordinador de recursos humanos,9,talent,sistemas,in_house,liderazgo,recursos humanos,recursos,seguridad
+203,Gestor Comercial Y Mercadeo,8,design,.,in_house,comercial,relaciones,comercio,equipo
+204,¿Cómo podríamos crear nuevos productos para usar al 100% la capacidad de nuestra planta y sus instalaciones?,13,product,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+205,auxiliar general de credito,17,consumer,datos,in_house,financiera,recursos humanos,riesgos,persona
+206,¿Cómo podríamos predecir de forma oportuna las fallas en productos/servicios para realizar su respectivo mantenimiento?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+207,202310 - ASESOR/A EMPRESARIO/A,6,tech,comercial,in_house,proyecto,mercado,creatividad,bienestar
+208,Growth Hacking,6,tech,análisis cualitativo,mixed,análisis cuantitativ,aprender,datos,toma de decisiones
+210,Consultor Visualización,13,product,servicios,in_house,aprender,conocimiento,experiencia,no
+211,¿Cómo podríamos generar un modelo de micro financiación (crowfounding) para desarrollar nuevos proyectos en nuestra organización?,4,strategy,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+212,Auxiliar administrativo de despacho,17,consumer,administrativo,in_house,auxiliar,power,experiencia,power
+213,Desarrollador .NET,6,tech,c# avanzado,virtual,pl sql (oracle),configuración de iis,webservices (soap –,código fuente c#
+214,Diseñador Industrial,8,design,trabajo,"[""a""]",experiencia,diseño,recursos humanos,recursos
+215,Cali - Soporte En Sitio,6,tech,solucionar,in_house,inventarios,sistemas,servicios,redes
+216,¿Cómo podríamos reinventar el sistema de indicadores de personal para que fuera más certero y amable con el empleado?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+217,Coordinador/a De Sistemas,13,product,bases,in_house,experiencia,internet,soporte,inventarios
+219,ANALISTA DE SOPORTE NIVEL 1 MESA DE SERVICIO SAP|C,6,tech,sap,in_house,parametrización mm,oracle,empresarial,redes
+220,Operador de servicio al cliente para sala de cine Armenia,17,consumer,servicio,"[""a""]",cine,experiencia,equipo,servicio al cliente
+221,¿Cómo podríamos facilitar la firma de contratos con los proveedores o clientes para agilizar procesos?,5,legal,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+222,AUXILIAR ADMINISTRATIVO OPERACIONES,7,communications,cadena,in_house,herramientas,procesos,persona,manejo
+223,¿Cómo podríamos implementar los códigos QR o la comunicación de campo cercano (NFC) para darle valor agregado a los servicios/productos de la organización?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+224,auxiliar administrativo/a - area asistencial,16,finance,experiencia,in_house,procesos,administrativo,procesos administrativos,auxiliar
+225,AUXILIAR DE OPERACIONES,13,product,plataformas,in_house,costos,herramientas,historia,persona
+226,"Industria Colombiana de Café S.A.S - ¿Cómo promover el crecimiento de la categoría de café y marcas en el consumo fuera del hogar en Colombia, para maximizar las ventas y valorizar las bebidas?",9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+227,¿Cómo podríamos ingeniar una forma de aprovechar los tiempos muertos en el trabajo de una forma productiva y divertida?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+228,Auxiliar comercial o administrativa empresa de alimentos ubicada en FONTIBON.,19,sales,empresa,virtual,comercio,comercial,negocios,experiencia
+229,202310 - ASESOR/A EMPRESARIO/A,6,tech,comercial,in_house,proyecto,mercado,creatividad,bienestar
+230,Programador de software en Ruby on rails,6,tech,linux,virtual,aws,ruby,rails,web
+231,Analista de soporte de aplicaciones,6,tech,soporte,virtual,datos,manejo,bases,sistemas
+233,Aux Soporte Técnico,13,product,mantenimiento,in_house,empresa,sistemas,experiencia,python
+234,Auxiliar de contratos Experiencia minima de 1 año,9,talent,talento,virtual,social,empresarial,experiencia,administrativo
+235,¿Cómo podríamos crear un modelo predictivo para determinar la vida útil de un producto o servicio?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+237,Head of UX (Colombia) (Remote),7,communications,decisiones,"[""a""]",equipo,profesional,web,experiencia
+238,Asistente Administrativo(a),6,tech,soporte,"[""a""]",experiencia,proyectos,plataformas,equipo
+239,¿Cómo podríamos normalizar la información adquirida por diferentes canales y/o medios para apoyar la toma de decisiones?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+240,Asistente de Servicio al Cliente manejo de PQR,17,consumer,trabajo,"[""a""]",empresa,profesional,servicio al cliente,recursos
+241,Técnico o Tecnólogo Comercial,19,sales,recursos,"[""a""]",empresa,equipo,trabajo,negocios
+242,Líder Comercial - Retail Offcorss Pereira,11,market,estrategias,"[""a""]",comercial,presupuestos,conocimiento,trabajo
+243,KEY ACCOUNT MANAGER (ELECTRODOMESTICOS ALTA GAMA),8,design,liderazgo,in_house,profesional,gestion,relaciones,habilidades
+244,Auxiliar Investigación y Desarrollo,13,product,trabajo,in_house,experiencia,calidad,compromiso,procesos
+245,Ruby On Rails Developer,6,tech,inglés b2,mixed,teams,relaciones,creatividad,auxiliar administrativo
+246,Practicante recursos humanos,9,talent,recursos humanos,virtual,trabajo,relaciones,recursos,social
+248,¿Cómo podríamos encontrar aplicativos tecnológicos relacionados al sector que generen valor a la organización?,11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+250,"¿Cómo podríamos certificar la transparencia del proceso de determinación del consumo del medidor (Toma lectura, análisis consumo, asignación de consumo al cliente), basados en soluciones blockchain?",6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+252,Intérprete Médico Remoto,17,consumer,conocimiento,in_house,servicio,habilidades,trabajo,experiencia
+253,Asistente administrativo/a - Norte de la ciudad,16,finance,experiencia,virtual,trabajo,recursos humanos,empresa,equipo
+257,Telefonista o mercaderista en el canal de droguería - Bogotá Cupo Fijo urgente (A),13,product,idiomas,in_house,ventas,servicios,trabajo,aprendizaje
+259,Representante y/o Analista Comercial Trade Marketing - Profesional con carro (Valledupar),19,sales,manejo,virtual,desarrollo,ventas,estrategias,cinco
+260,Prácticas Profesionales,11,market,recursos humanos,"[""a""]",talento,recursos,aprendizaje,auxiliar
+261,Meseros Con Experiencia,17,consumer,seguridad,in_house,desarrollo,salud,servicio,empresa
+262,Virtual Assistant,11,market,work,in_house,data,marketing,teams,experiencia
+263,¿Cómo podríamos incitar a nuestros usuarios a hacer parte de una comunidad de seguidores de nuestra marca?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+264,Auxiliar de tecnología,6,tech,empresa,in_house,trabajo,software,equipo,power
+265,Jefe de Administración y Finanzas,16,finance,auditoria,in_house,control,inventarios,bases,power
+267,Agente mesa de servicio - Agente mesa de ayuda,17,consumer,servicio,in_house,experiencia,empresarial,remoto,herramientas
+268,¿Cómo podríamos conectar a grandes talentos emprendedores con nuestra organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+269,¿Cómo podríamos mejorar el proceso de almacenamiento en nuestro inventario aprovechando al máximo el espacio?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+270,TTech_PROFESIONAL PAYROLL,6,tech,persona,in_house,soporte,equipo,calidad,informes
+271,Técnico de Monitoreo de redes y seguridad.,7,communications,seguridad,to_be_agreed,service desk,monitoreo,infraestructura,networking
+272,¿Cómo podríamos optimizar los recursos en el proceso de producción para así disminuir los residuos?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+274,"Líder, administrador punto de venta - Bogota",17,consumer,estrategias,"[""a""]",equipo,relaciones,administrador,trabajo
+275,Analista de pruebas semi - senior,6,tech,analytics,in_house,caja,responsabilidad,software,seguros
+276,¿Cómo se pueden aumentar las ventas de productos manufacturados de las fincas del sur del país?,19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+277,Coordinador Trade Marketing,11,market,capacidad,in_house,estrategias,equipo,desarrollar,estrategia
+278,Supervisor de Operaciones FUNZA,5,legal,industrial,in_house,experiencia,calidad,inventarios,operaciones
+279,"Urgente, operari@s de confeccion",13,product,servicios,in_house,empresa,transporte,experiencia,inventarios
+280,¿Cómo podríamos optimizar la atención de los puntos de venta para mejorar la experiencia del cliente?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+281,Ingeniero exp en pruebas funcionales de proyectos tecnológicos - Bogotá,13,product,servicio,"[""a""]",profesional,reclutamiento,servicios,whatsapp
+282,¿Cómo podríamos asegurar el suministro de los insumos necesarios para evitar retrasos de producción?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+283,"¿Cómo podríamos realizar el proceso de limpieza de maquinaria, sin necesidad de afectar o detener la producción?",15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+284,"Administrativo, Contable, Recurso Humano - Con experiencia",9,talent,habilidades,in_house,profesional,industrial,ingeniero,manejo
+285,Analista Contable,13,product,profesional,"[""a""]",financiera,empresa,normatividad,desarrollo
+286,¿Cómo podríamos facilitar a los empleados de diversas áreas una comunicación que permita transferir conocimientos?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+287,¿Cómo podríamos optimizar los tiempos de logística en nuestra organización?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+288,Cajera - Sector hospitalario,17,consumer,trabajo,in_house,recursos,auxiliar,experiencia,recursos humanos
+289,"¿Cómo podríamos mejorar la experiencia de nuestros usuarios de forma entretenida, en los momentos críticos de pago de productos?",19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+290,Programador Cobol Junior - Colombia,6,tech,cinco,virtual,desarrollo,civil,proyectos,cadena
+291,Construcción - ¿Cómo estandarizar los procesos de gestión de materiales en una construcción  para garantizar la calidad en todo el proceso?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+292,Profesional producción I,13,product,trabajo,virtual,analizar,recursos,mantenimiento,servicio
+293,Analista de datos,6,tech,sql,mixed,ingles intermedio,excel avanzado,programación,comercio
+294,Auxiliar de Produccion y Empaque,5,legal,empresa,in_house,equipo,trabajo,experiencia,produccion
+295,¿Cómo podríamos disminuir el gasto de energía en la producción?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+296,Auxiliar o asistente administrativo  Riohacha,16,finance,auxiliar,in_house,experiencia,administrativo,experiencia,azure
+297,"convocatoria de operarios de producción miercoles 24 de agosto 07:30am Urgente - Vivir en chía, Zipaquira o zonas aledañas",13,product,recursos,in_house,empresa,digital,experiencia,recursos humanos
+298,Operario/Ayudante/ auxiliar de producción Sector industrial,13,product,recursos,in_house,empresa,auxiliar,procesos,equipo
+299,¿Cómo podríamos crear una estrategia de trabajo en convenio con los proveedores para incrementar la eficiencia en nuestro trabajo?,3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+300,Coordinador comercial de seguros,19,sales,experiencia,"[""a""]",seguros,equipo,tecnico,empresa
+301,Coordinador de selección - Zona Sur de Bogota,9,talent,procesos,in_house,empresa,experiencia,reclutamiento,comercio
+302,Asesor de Calidad y Servicio al Cliente,5,legal,alimentos,in_house,recursos,informes,bienestar,recursos humanos
+303,Coordinador de procesos de Diseño,8,design,profesional,in_house,procesos,normatividad,proyectos,calidad
+304,Líder de proyectos y innovación,16,finance,proyectos,in_house,mejora,publicidad,mercados,experiencia
+306,Como identificar los accidentes laborales mas frecuentes y con mas alto grado de afectación dentro de las organizaciones.,16,finance,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+307,¿Cómo podríamos incentivar a nuestros clientes a descargar y usar nuestra aplicación móvil?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+308,"¿Cómo optimizar soluciones
+tecnológicas que faciliten la
+gestión de proyectos en una
+pyme?",6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+309,Analista Creativo – Diseñador,8,design,mercado,"[""a""]",conocimiento,experiencia,publicidad,empresa
+310,¿Cómo podríamos reinventar el proceso de embalaje desde la logística para hacerlo más eficiente?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+311,Asesor servicio al cliente - Granada Meta,17,consumer,servicio,virtual,habilidades,manejo,experiencia,financiero
+312,Coordinador(a) de Mercadeo,8,design,marketing,"[""a""]",mercado,ventas,mercadeo,redes
+313,Technical Lead,6,tech,desarrollo frontend,to_be_agreed, angular versión 7 , html, css, micro fronted
+314,EJECUTIVO COMERCIAL,19,sales,recursos,"[""a""]",ventas,equipo,auxiliar administrativo,talento
+315,¿Cómo podríamos disminuir las perdidas en las líneas de producción?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+316,Gerente surtimax guatapé,9,talent,ventas,in_house,alimentos,conocimiento,recursos,seguridad
+317,Profesional de Evaluación de Proyectos,8,design,ideal,in_house,procesos,redes,proyectos,experiencia
+319,Coordinador/Profesional E-Commerce,8,design,recursos humanos,virtual,trabajo,plataformas,equipo,experiencia
+320,¿Cómo mejorar un proceso estratégico de la organización para incrementar la productividad?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+322,¿Cómo podríamos incrementar el uso de nuestro producto/servicio a través del tiempo?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+323,Coordinador logistico- san antonio de prado,18,logistics,tecnica en logistica,in_house,vivir en itagui,tener moto,manejo de personal,experiencia logistic
+324,Auxiliar logístico - Aeropuerto el dorado,7,communications,empresa,in_house,equipo,trabajo,conocimiento,experiencia
+325,Desarrollador de Negocios - B2B - Manizales / Pereira / Armenia,13,product,procesos,in_house,comercial,experiencia,modelos,talento
+326,Personal de Apoyo - Volanteo,17,consumer,trabajo,in_house,empresa,recursos,eventos,estrategias
+327,Tecnico HseQ - Contratación inmediata,5,legal,empresa,"[""a""]",herramientas,normatividad,profesional,primeros auxilios
+328,Ayudante de construcción,5,legal,herramientas,in_house,trabajo,transporte,desarrollar,experiencia
+329,Recepcionista administrativa,9,talent,manejo de caja menor,in_house,verificación pagos,atención telefónica,seguridad de la info,bases de datos
+330,Jr Operations Manager,5,legal,work,in_house,data,drive,internet,design
+331,Financial Crime Officer,5,legal,responsabilidad,virtual,servicios,riesgos financieros,excel avanzado,redes
+332,¿Cómo podríamos implementar nuevos métodos para la tecnificación de los procesos productivos en la organización?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+333,Auxiliar Cajas,17,consumer,experiencia,in_house,eventos,caja,servicio,seguridad
+335,Community Manager,11,market,experiencia,"[""a""]",comercial,bases,publicidad,redes
+336,Encuestador call center,7,communications,procesos,"[""a""]",trabajo,experiencia,habilidades,datos
+337,Diseñador Industrial,8,design,manejo,in_house,desarrollar,diseño,experiencia,power
+339,Ejecutivo de Cuenta Montería,13,product,desarrollo,virtual,manejo,estrategias,empresa,profesional
+341,¿Cómo podríamos disminuir las perdidas en las líneas de producción?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+343,Key User Bilingüe,13,product,proyectos,in_house,mejora,mantenimiento,desarrollo,datos
+344,000000,6,tech,ingles,to_be_agreed,trabajr en equipo,sql,python,universidad
+345,Analista de contenidos virtuales,7,communications,cadena,in_house,cadena de suministro,conocimiento,social,experiencia
+346,Ingeniero de Datos,6,tech,postgresql,mixed,pentaho,python,sql,python
+347,Analista de Pruebas de Software,6,tech,analytics,in_house,sistemas,industrial,data,seguros
+348,Administración,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+350,"Cons. Concreto
+¿Cómo podríamos estandarizar los procesos de implementación y construcción de guadua para disminuir con las brechas entre el sector constructivo a través de un material de formación?",15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+351,¿Cómo podríamos reinventar el proceso de selección creando una experiencia memorable para los aspirantes?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+352,Auxiliar de redes sociales con experiencia en PQRS,7,communications,experiencia,in_house,manejo,redes sociales,redes,equipo
+353,Asistente Ejecutivo/A,9,talent,profesional,in_house,materiales,mercado,desarrollo,eventos
+357,20484-Supervisor Comercial de Crédito,19,sales,procesos,"[""a""]",trabajo,historia,comercial,paquete
+358,Líder de contratación,9,talent,normatividad,in_house,equipo,recursos,ingles básico,comercio
+359,Ingeniero/a de T.I.,6,tech,redes,in_house,auditoria,software,empresa,jenkins
+360,202310 - ASESOR/A EMPRESARIO/A,6,tech,comercial,in_house,proyecto,mercado,creatividad,bienestar
+361,DevOps Engineer,6,tech,english,mixed,vpn,aws vpc,dns,jenkins
+362,"¿Cómo podríamos identificar la información de mayor importancia para el cliente, en cuanto a un producto/servicio?",17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+364,Visual Display Product Manager /Marketing (Nivel de Ingles Intermedio),11,market,transporte,virtual,informes,experiencia,relaciones,equipo
+365,Analista de Pruebas,6,tech,calidad,in_house,profesional,empresa,proyectos,experiencia
+366,Gestor Audiovisual e learning,8,design,estrategias,in_house,reclutamiento,manejo,experiencia,universidad
+367,Operarios de producción - Sin experiencia,13,product,servicios,in_house,experiencia,empresa,paquete,jenkins
+368,Auxiliar atención al cliente - Teletrabajo,17,consumer,experiencia,in_house,talento,computador,herramientas,servicio
+370,¿Cómo disminuir el tiempo de contratación?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+371,Desarrollador .NET Full Stack,6,tech,.net core,virtual,.net,angular v6 o superio,api rest,postgresql
+372,CAJERAS - 34302,17,consumer,conocimiento,in_house,servicio,experiencia,caja,manejo
+373,Analista de Sarlaft,13,product,talento,virtual,experiencia,desarrollo,datos,modelos
+374,¿Cómo podríamos implementar un sistema de indicadores o resultados financieros automáticos en la organización?,16,finance,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+375,Agentes call center para servicio al cliente - trabajo presencial puente aranda,17,consumer,transporte,in_house,servicio,presencial,empresa,experiencia
+376,Ingeniero químico- innovación y desarrollo de alimentos,6,tech,ingeniero,virtual,decisiones,.,recursos,proyectos
+377,AUXILIAR BODEGA SIBERIA,7,communications,manejo,in_house,experiencia,trabajo,power bi,diseño
+378,AUXILIAR ADMINISTRATIVO – SIBERIA,17,consumer,no,in_house,manejo,transporte,servicio,servicio al cliente
+379,¿Cómo podríamos incrementar el uso de nuestro producto/servicio a través del tiempo?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+380,ADMINISTRADOR DE TIENDA - BOGOTA NORTE,13,product,trabajo,in_house,aprender,analizar,equipo,responsabilidad
+383,Jefe de cartera,16,finance,call center,to_be_agreed,ejecuciones de aval,perfil de cliente,primera base pirámid,estrategias de cobro
+386,Desarrollador Odoo,6,tech,odoo,to_be_agreed,python,django,postgressql,mysql
+387,Treasury Accounting Associate,16,finance,habilidades,in_house,equipo,experiencia,procesos,leer
+388,Oficial de Empleabilidad- Popayan,13,product,profesional,"[""a""]",ciencias,procesos,compromiso,proyectos
+389,¿Cómo podríamos normalizar la información adquirida por diferentes canales y/o medios para apoyar la toma de decisiones?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+390,Supervisor(a) de Construcción y Operación Curumaní,13,product,desarrollo,in_house,experiencia,infraestructura,proyectos,puntualidad
+391,Conversemos en red,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+393,Analista contable - copia,9,talent,recursos,in_house,web,manejo,experiencia,software
+395,Coordinador contable / contratación inmediata,13,product,publicidad,in_house,profesional,mejora,procesos,desarrollo
+396,Supervisor Comercial puntos de venta - Retail,19,sales,presencial,"[""a""]",estrategias,procesos,equipo,comercial
+397,Agente de Servicio al cliente,17,consumer,procesos,in_house,experiencia,bienestar,servicio,universidad
+398,INGENIERO DE SERVICIOS DIGITALES 1 LÍDER TÉCNICO,6,tech,arquitectura técnica,mixed,gestión servicios de,diseño soluciones ti,gestión información,power
+399,¿Cómo podríamos crear conciencia mediante un nuevo sistema de Responsabilidad social organizaciónrial (RSE) que genere un impacto positivo?,1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+400,Auxiliar recursos humanos,9,talent,experiencia,in_house,recursos,recursos humanos,financiera,auxiliar administrativo
+401,Analista de Desarrollo de Negocios Internacionales,11,market,experiencia,in_house,herramientas,mysql,webservice,comercio
+402,¿Cómo podríamos mejorar la comunicación con nuestros clientes para tener un servicio más efectivo/cercano?,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+403,¿Cómo podríamos disminuir los tiempos de entrega de productos al cliente final?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+405,Líder técnico,9,talent,sistemas,in_house,procesos,ingeniero,industrial,recursos
+406,"¿Cómo podríamos hacer uso del Internet de las Cosas (IoT) en puntos de venta, para mejorar la experiencia y el feedback del usuario?",4,strategy,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+407,AGILE PROJECT MANAGER - BILINGÜE,6,tech,ingles,virtual,scrum,gestion de proyectos,jira,talento
+409,¿Cómo podríamos atraer nuevos talentos con ideas frescas que le den valor a nuestra organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+411,Analista de Mejoramiento de Procesos,13,product,riesgos,in_house,proyectos,desarrollo,profesional,experiencia
+413,Asistente Legal Bilingüe,5,legal,aprender,in_house,experiencia,bases,compromiso,bienestar
+414,Auxiliar logistico,16,finance,experiencia,in_house,empresa,trabajo,equipo,auxiliar administrativo
+415,¿Cómo podríamos generar una propuesta tentadora con proveedores para alianzas a largo plazo?,3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+416,¿Cómo podríamos hacer uso de diferentes modelos de Big Data para aprovechar la información de usuarios y así tomar decisiones estratégicas?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+417,Citacion Agente de Rampa,5,legal,experiencia,in_house,empresa,mysql,webservice,comercio
+418,Analista Metricas Digital,11,market,datos,virtual,equipo,conocimiento,trabajo,experiencia
+419,Product Owner,7,communications,talento,in_house,trabajo,bienestar,datos,experiencia de usuario
+420,17626-Asesor Comercial Motos,11,market,ventas,in_house,relaciones,responsabilidad,persona,comercial
+421,Mesero con experiencia en servicio para Colsubsio,17,consumer,seguridad,in_house,en equipo,desarrollo,no,servicio
+422,PROFESIONAL II DE SOLUCIONES DIGITALES,13,product,software,in_house,desarrollo de software,soporte,plataformas,desarrollo
+423,Gerente comercial de sede - Cartagena,19,sales,recursos,"[""a""]",liderazgo,equipo,comercial,trabajo
+424,Practicante Mercadeo - Mercadeo Digital,11,market,experiencia,in_house,equipo,bases,compromiso,bienestar
+425,"¿Como hacer una aplicación de facil manejo con tematicas y metodologia divertidas y a la que tengan acceso trabajadores de sueldo medio, estudiantes, amas de casa, docentes  y otros?",13,product,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+426,Diseñador grafico,8,design,profesional,"[""a""]",diseño,empresa,desarrollo,experiencia
+427,Administrador de bases de datos dba,6,tech,linux,to_be_agreed,sql,aws,recovery,desaster
+428,Coordinador de Proyectos - Líder de Tecnología y Aplicaciones,6,tech,telecomunicaciones,in_house,sistemas,redes,proyectos,experiencia
+429,auxiliar administrativo,17,consumer,administrativo,virtual,desarrollo,manejo,auxiliar administrativo,empresa
+432,Químico Farmacéutico,5,legal,empresa,in_house,equipo,normatividad,trabajo,experiencia
+433,Gestor de Atención al Cliente - Barranquilla,7,communications,social,in_house,experiencia,manejo,redes,power
+434,Bancolombia - ¿Cómo conceptualizar y generar infraestructura que permita acceder y analizar big data y preparación de datos sin procesos para manipulación por científicos de datos?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+435,Especialista Funcional,6,tech,mejora continua,in_house,procesos,bienestar,agiles,mejora
+437,¿Cómo podríamos llegar a nuevos territorios a través de canales digitales?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+438,Diseñador Jr. - Presencial Medellin (LG),8,design,diseño grafico,virtual,mercadeo,redes,servicio,experiencia
+439,DevOps,6,tech,jenkins y aws,mixed,code pipeline,gilab,terraform,transporte
+440,Estudiante de comunicación social con experiencia en Redes sociales - PQR para trabajar en Funza en Celta,7,communications,auxiliar,"[""a""]",social,experiencia,periodismo,manejo
+441,Director De Operaciones - (Uf987),6,tech,comercial,in_house,experiencia,alimentos,auxiliar administrativo,recursos humanos
+442,Arquitecto de Procesos - Sector Financiero,16,finance,trabajo,in_house,paquete,diseño,mejora,manejo
+444,¿Cómo podríamos reinventar el proceso de selección creando una experiencia memorable para los aspirantes?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+445,Senior Product Designer,6,tech,scrum,to_be_agreed,ux writing,diseñador ux - ui,power bi,power
+446,"¿Cómo podríamos crear un plan de beneficios, que de a los colaboradores una recompensa basados en sus intereses y motivaciones?",9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+448,Analista de Recursos humanos,9,talent,recursos,in_house,procesos,experiencia,recursos humanos,agile-scrum
+449,Equipo Medición Comercial (Todo Colombia),13,product,tratamiento,in_house,presupuestos,aprendizaje,ciencias,mejora
+450,Urgente- - Promotor con Experiencia - Armenia - Contratación Inmediata,6,tech,desarrollo,in_house,trabajo,proyectos,aprendizaje,servicios
+451,Agentes Call Center sin experiencia Pereira,17,consumer,transporte,"[""a""]",servicio,presencial,experiencia,virtual
+452,Comercial,19,sales,comercio,virtual,procesos,comercial,trabajo,experiencia
+454,Agente call center// servicio al cliente.,17,consumer,servicio,in_house,servicio al cliente,publicidad,redes,experiencia
+456,¿Cómo podríamos estandarizar ciertas metodologías efectivas para agilizar los procesos de logística en la organización?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+457,Coordinador Analista de visual Merchandising Bucaramanga /U R G E N T E,8,design,presencial,in_house,diseño,mercadeo,empresa,experiencia
+458,18929-Asesor Comercial Repuestos,19,sales,experiencia,in_house,ventas,mercado,industrial,empresa
+459,¿Cómo podríamos mejorar un proceso para incrementar nuestra productividad?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+461,Asistente de seguridad TI,6,tech,no,in_house,redes,sistemas,experiencia,desarrollar
+462,Ejecutivo comercial financiero,19,sales,financiero,in_house,comercial,empresa,ventas,idiomas
+463,Finance Analyst (739378),16,finance,experiencia,in_house,drive,perfil de cliente,transporte,idiomas
+464,¿Cómo podríamos diseñar un modelo que pueda predecir el comportamiento de usuarios y/o empleados frente a un tema específico?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+465,Supervisor/a comercial para Depositos Farmaceuticos- Bogota,19,sales,empresa,"[""a""]",comercial,servicios,trabajo,talento
+466,Profesionales en Derecho/ Carreras administrativas/ ingenieria de sistemas y Tecnicos Automotrices,5,legal,sistemas,virtual,recursos humanos,trabajo,recursos,experiencia
+468,Psicologo (a) Servicio Gestión Humana - Freelance Medellin,9,talent,servicio,in_house,reclutamiento,soporte,experiencia,procesos
+469,Ingeniero de automatización,6,tech,sql server,to_be_agreed,ssis,ssrs,financiera,jenkins
+470,Talentee Community Manager,4,strategy,inglés,virtual,colaboración,trabajo en equipo,logística,diseño
+472,¿Cómo podríamos incluir un plan de carrera que impulse las capacidades de nuestros empleados en su labor?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+473,Docente de Ingles - para área de Bachillerato,13,product,experiencia,in_house,recursos,estrategias,materiales,trabajo
+474,Aprendiz Universitario en Ingeniería en Diseño de Entretenimiento Digital (35569),8,design,capacidad,virtual,aprendizaje,plataformas,desarrollo,estrategia
+475,Crear una administrador de cuentas para un banco,13,product,scrum,to_be_agreed,vue,django.,excel,mysql
+476,"Supervisor de tienda, Administrador de tienda, Líder de tienda // Contrato indefinido + beneficios - Contratación inmediata, Neiva!!",17,consumer,experiencia,virtual,trabajo,servicio,empresa,equipo
+477,Docente Diseño Gráfico - Módulo Redacción,8,design,profesional,in_house,social,experiencia,coaching,docente
+478,Analista de Tesorería sector cooperativo,16,finance,caja,"[""a""]",financiero,recursos,coordinar,experiencia
+479,Asesor/a comercial con o sin experiencia para trabajar en venta de Tecnologìa,6,tech,experiencia,in_house,comercial,cadena,empresa,idiomas
+481,Operarios de Producción -LITO - Bucaramanga,13,product,recursos,in_house,empresa,transporte,experiencia,recursos humanos
+482,¿Cómo podríamos crear una estrategia de marketing digital para atraer más clientes?,11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+483,¿Como generar fidelización a la marca?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+484,Recepcionista/hotel,17,consumer,servicio,in_house,experiencia,recepcionista,desarrollo,internet
+485,Asistente comercial - Presencial,17,consumer,servicio,in_house,empresa,servicio al cliente,comercial,publicidad
+486,Asesor PQRs telecomunicaciones,5,legal,trabajo,in_house,telecomunicaciones,contabilidad,experiencia,ideal
+487,Prácticas Profesionales - Postobón,5,legal,industrial,in_house,negocios,mercado,calidad,modelos
+488,Coordinador canal moderno Junior - Bogotá Contratación Inmediata,7,communications,servicio,"[""a""]",alimentos,equipo,persona,agile-scrum
+489,¿Cómo podríamos diseñar un modelo que pueda predecir el comportamiento de usuarios y/o empleados frente a un tema específico?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+490,KET ACCOUNT MANAGER,19,sales,excel avanzado,mixed,redes sociales,gestión de office,ingles básico,desarrollo
+491,¿Cómo podríamos predecir cuándo es necesario un insumo para evitar demoras en el proceso de producción?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+492,Asesor comercial call center o presencial - trabajo hibrido,17,consumer,trabajo,in_house,presencial,financiero,comercial,ventas
+493,Auxiliar de facturación,17,consumer,servicio,"[""a""]",teams,relaciones,creatividad,auxiliar administrativo
+494,Comunicadora Social,8,design,experiencia,"[""a""]",idiomas,soporte,capacidad,consulta
+495,Data engineer,6,tech,sql,virtual,azure,etl/elt,power bi,transporte
+496,Supervisores de servicio al cliente para el sector salud (no ventas),17,consumer,servicio,in_house,liderazgo,en equipo,transporte,experiencia
+497,14592-Consultor(a) Integral Servicio A Clientes,7,communications,cultura,in_house,profesional,herramientas,procesos,power
+499,¡Aplica ya! Asesor de CALL center servicio al cliente comercial o afines Proceso de Selección virtual/ lunes a sabado de dia NO de noche ni madrugada,17,consumer,no,in_house,servicio,profesional,servicio al cliente,calidad
+500,¿Cómo podríamos hacer más eficiente el proceso de selección de talento?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+501,Urgente auxiliar de compras - Lebrija,16,finance,empresa,in_house,recursos,operaciones,auxiliar,habilidades
+502,Vp de Recursos Humanos,8,design,recursos humanos,in_house,talento,cultura,recursos,empresa
+503,Business Development Representative - Colombia,11,market,cultura,in_house,experiencia,ventas,equipo,mercados
+505,Líder en Tecnología,6,tech,scrum,in_house,liderazgo,seguridad,programación,desarrollo
+506,Soporte de Impresoras- Técnico en Sistemas,6,tech,soporte,in_house,experiencia,sistemas,servicio,persona
+507,"¿Cómo podríamos reconocer nuevas oportunidades de negocio, teniendo en cuenta nuestro público actual?",11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+508,Analista de Diseño Gráfico,8,design,profesional,in_house,diseño,redes,desarrollo,herramientas
+509,ANALISTA HSEQ,5,legal,seguridad,in_house,recursos,herramientas,procesos,salud
+512,¿son las redes un medio para que el cliente exija nuestros productos?,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+514,Lider de Gestión Humana,9,talent,cultura,in_house,relaciones,profesional,experiencia,soporte
+515,Especialista en Automatización de Procesos,6,tech,rest ap,to_be_agreed,proceso bpm,motor bpm,bpm,postgresql
+516,¿Como posicionar el comercio electrónico como aliado estratégico para emprendedores en Colombia?,11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+517,¿Cómo podriamos tener efectividad en la trazabilidad de la información de las reservas en un hotel?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+518,"¿Cómo podríamos transformar el proceso de inducción, haciéndolo más agradable para el nuevo trabajador?",9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+522,Analista De Abastecimiento.,11,market,servicio,in_house,materiales,trabajo,planes,datos
+523,Analista de contratos jurídicos bilingüe,5,legal,riesgos,in_house,liderazgo,experiencia,habilidades,datos
+524,Prácticas Profesionales,11,market,talento,"[""a""]",aprendizaje,recursos,recursos humanos,power
+525,Client Success,6,tech,experiencia,"[""a""]",desarrollo,estrategias,habilidades,mercado
+526,Coordinador(a) Crm,11,market,experiencia,in_house,equipo,mercado,publicidad,analizar
+527,JEFE ESTRATEGIA Y MOVILIZACION DE EXPERIENCIA,8,design,proyectos,in_house,en equipo,manejo,estrategias,estrategia
+528,Mi talento compartido con los demas,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+532,Líder de Transformación de datos SAP,6,tech,experiencia,in_house,software,trabajo,desarrollo,equipo
+534,Analista de Marketing,7,communications,planes,in_house,experiencia,habilidades,marketing,talento
+535,Urgente 90 operarios logísticos con y sin experiencia laboral (Cúcuta) evento por 15 días con posibilidad de cupo fijo,13,product,empresa,"[""a""]",transporte,comercial,servicios,trabajo
+536,disenador/a grafica,8,design,photoshop,in_house,trabajo,conocimiento,experiencia,indicadores de gestion
+537,Estudiante - Contact Center,5,legal,presencial,in_house,desarrollo,trabajo,internet,trabajo individual
+539,Asistente de Gestion Humana  para multinacional  en Siberia.,9,talent,manejo,in_house,bases,experiencia,seguridad,afiliaciones
+541,Operario de producción - Sector de alimentos,13,product,empresa,"[""a""]",transporte,experiencia,alimentos,entrenamiento
+542,Gestor de Cobros - Colombia,16,finance,no,virtual,riesgos,estrategias,experiencia,abogado
+543,Auxiliar administrativo/a para Rionegro 1626053309.41,16,finance,web,in_house,calidad,caja,servicios,experiencia
+545,"Líder, administrador punto de venta - Palmira Facol",17,consumer,estrategias,"[""a""]",equipo,relaciones,administrador,trabajo
+546,TESORERO - DISPONIBILIDAD DE VIAJAR-CALI-50718,16,finance,financiero,in_house,manejo,responsabilidad,coordinar,servicio
+547,Diseñador Editorial Jr,7,communications,coaching,in_house,digital,profesional,cultura,mercado
+549,Analista servicios adminitrativos - Bogota,17,consumer,aprendizaje,in_house,empresa,desarrollo,soporte,manejo
+550,ANALISTA DE INGENIERIA,8,design,planes,virtual,produccion,bases de datos,ingenieria,procesos
+551,¿Cómo podríamos identificar nuevos proveedores que suplan las necesidades en los proyectos de nuestra organización?,3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+552,Asesor de Servicio al cliente- Contact Center,17,consumer,experiencia,"[""a""]",herramientas,calidad,transporte,universidad
+553,Líder de Talento Humano - Bogotá,13,product,planes,virtual,servicios,bienestar,coordinar,capacidad
+554,Desarrollador de software JP| RUTA N,6,tech,desarrollador de software jp,to_be_agreed,teams,relaciones,creatividad,auxiliar administrativo
+555,¿Cómo crear una solución para llevar control y predecir los gastos del cliente de manera que este pueda mantenerse al tanto de sus movimientos y tener unas finanzas personales más sanas?,16,finance,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+556,¿Cómo dar a conocer y formar a los profesionales de la Subgerencia de Ejecución de Proyectos en la plataforma BIM 360 logrando su uso y apropiación en la ejecución de las obras?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+557,Content Manager D2F,6,tech,experiencia,in_house,habilidades,redes,relaciones,manejo
+558,DESARROLLADOR DE VENTAS JUNIOR,11,market,microsoft office,in_house,comunicación,proactividad,google,g-suite
+559,Operarios de producción / Lácteos - Zipaquirá,13,product,recursos,in_house,empresa,servicios,experiencia,recursos humanos
+560,¿Cómo podríamos hacer que nuestros productos (virtuales/físicos) comuniquen información de interés a nuestros usuarios?,13,product,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+561,¿Cómo podríamos mejorar la satisfacción de nuestros empleados para disminuir la deserción en la organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+563,¿Cómo podríamos crear un sistema de puntos para los servicios de la organización?,12,incomes,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+567,Auxiliar Recibo - Conteo Surtimayorista,13,product,desarrollo,in_house,equipo,cadena de suministro,cadena,operaciones
+568,impulso/mercaimpulso con o sin experiencia temporada fin de año/aplican estudiantes universitarios - Cartagena urgente,5,legal,experiencia,in_house,transporte,talento,comercial,internet
+569,Auxiliar Modelo de Productividad(Antioquia),8,design,profesional,"[""a""]",desarrollar,procesos,experiencia,bienestar
+570,Ineniero Alimentos,7,communications,alimentos,in_house,empresa,manejo,modelos,idiomas
+571,graphic designer,8,design,capacidad,virtual,software,ventas,desarrollar,mercado
+572,Analista de nomina /Bogotá - Disponibilidad Inmediata,16,finance,empresa,in_house,recursos,nomina,experiencia,informes
+573,Auxiliar logistico - Bogota,13,product,trabajo,in_house,transporte,experiencia,empresa,recursos humanos
+575,Operarios de Producccion - Chía sectores aledaños Urgente,13,product,servicios,in_house,experiencia,empresa,industrial, micro fronted
+576,¡Cajeros!,17,consumer,empresa,"[""a""]",recursos,experiencia,recursos humanos,servicio
+583,"¿Cómo podríamos identificar la información de mayor importancia para el cliente, en cuanto a un producto/servicio?",17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+584,¿Cómo podríamos calcular los indicadores de productividad para mejorarlos mediante la visualización de estos?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+585,"Analista financiero, crédito bilingue idioma ingles alto - modalidad de empleo teletrabajo",16,finance,sistemas,in_house,financiera,recursos humanos,empresa,experiencia
+587,Tecnico o Tecnólogo en sistemas,7,communications,office,in_house,redes,micro,mejoramiento continuo,soporte
+588,Auxiliar administrativo/a - Girardota,16,finance,manejo,in_house,empresa,publicidad,habilidades,experiencia
+589,Especialista Comercial Línea Laboratorio e industrial,19,sales,empresa,"[""a""]",servicios,persona,salud,manejo
+592,Auxiliar Operativo - 1 año de experiencia,17,consumer,transporte,in_house,empresa,recursos,experiencia,recursos humanos
+593,Auxiliar servicio Bogota,17,consumer,alimentos,in_house,experiencia,persona,ideal,servicio
+594,Auxiliar de parque de diversiones / servicio al cliente / sin experiencia aplica personal primer empleo,17,consumer,alimentos,"[""a""]",servicio,experiencia,servicio al cliente,cocina
+595,"¿Cómo realizar un contrato macro con los proveedores, sin establecer un monto  mínimo de compras, pero  con compromiso de tiempo de entrega establecidos?",3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+596,Operario/a de empaque Tablaza Sin experiencia - Condiciones de Frío,13,product,empresa,in_house,equipo,servicios,experiencia,alimentos
+599,Coordinador/a Comercial,19,sales,mantenimiento,in_house,experiencia,servicios,empresa,profesional
+600,Supervisor de limpieza - Medellin,7,communications,lider,in_house,servicios,procesos,excell,manejo
+601,"Realizar los requerimientos de material de acuerdo con los pronósticos y la clasificación ABC, reduciendo la cantidad de inventario y mejorando su rotación sin desmejorar el servicio.",18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+602,¿Cómo podríamos captar los datos de una máquina para mejorar su rendimiento?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+603,Gran Oportunidad! Asesores Back Office con 6 meses de experiencia,17,consumer,servicios,in_house,experiencia,equipo,paquete,jenkins
+604,Analista comercial - Ingles B2,16,finance,comercial,in_house,servicio,experiencia,persona,habilidades
+605,Recepcionista Cajero para trabajar en el barrio Toberin,7,communications,trabajo,in_house,experiencia,recepcionista,talento,persona
+606,¿Cómo podríamos hacer que nuestros productos (virtuales/físicos) comuniquen información de interés a nuestros usuarios?,13,product,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+607,Coordinador De Mejoramiento Continuo,13,product,equipo,"[""a""]",compromiso,herramientas,servicios,scrum.
+608,Auxiliar de Seguridad y Salud en el Trabajo,5,legal,procesos,in_house,recursos humanos,trabajo,relaciones,recursos
+609,DESARROLLADOR JAVA,6,tech,scrum,to_be_agreed,devops,big data,linux,java
+610,¿Cómo podríamos crear conciencia mediante un nuevo sistema de responsabilidad social empresarial (RSE) que genere un impacto positivo?,1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+611,Gerente General - Sector PALMA,13,product,servicios,in_house,presupuestos,experiencia,capacidad,estrategia
+612,¿Cómo podríamos crear soluciones digitales para generar nuevos productos y servicios apalancando la MEGA con la renovación y generación de nuevos ingresos en Cementos Argos?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+613,Atención al cliente asistencias para carros -Formación 7 días - contrato 48 horas,17,consumer,experiencia,in_house,seguros,mysql,webservice,comercio
+614,PROJECT MANAGER,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+615,Lider de Recursos Humanos Logísticos - Novaventa,9,talent,cultura,in_house,soporte,coordinar,experiencia,recursos
+616,Ejecutivo Comercial Experiencia en Empresas Temporales,19,sales,no,in_house,capacidad,equipo,comercial,servicios
+617,Embajador de Servicio al cliente,17,consumer,entrenamiento,virtual,servicio al cliente,recursos,experiencia,no
+618,Coordinador creativo y comunicación digital,7,communications,experiencia,"[""a""]",digital,estrategias,manejo,servicios
+619,Operaria de muestra o prototipo - Guayabal,8,design,diseño,in_house,empresa,transporte,experiencia,manejo
+621,"Líder, supervisor comercial",19,sales,experiencia,in_house,manejo,ventas,comercial,informes
+622,¿Cómo podríamos crear un modelo de venta directa que para los clientes de la organización?,19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+623,Oficina Internacional: internacionalización de la salud,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+624,Coordinadora Gestión Humana - Claro medellín,13,product,redes,in_house,proyecto,desarrollo,proyectos,planes
+625,Auxiliar Administrativa,17,consumer,talento humano,in_house,seguridad,redes,manejo,experiencia
+626,Desarrollador/a DevOps Automatización,6,tech,en equipo,in_house,desarrollo,trabajo,cultura,proyectos
+628,Ingeniero de desarrollo 2,6,tech,desarrollo,in_house,negocios,sistemas,programacion,diseño
+629,GESTOR DE QUEJAS Y RECLAMOS,17,consumer,manejo,virtual,salud,servicio,normatividad,equipo
+630,Analista de contratos jurídicos bilingüe,5,legal,riesgos,in_house,liderazgo,experiencia,habilidades,datos
+631,Asistente Administrativo 1/2 tiempo Aeropuerto Carepa,17,consumer,procesos,in_house,experiencia,caja,procesos administrativos,servicio
+632,¿Cómo podríamos crear un modelo de venta directa que para los clientes de la organización?,19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+633,¿Cómo podríamos usar la Impresión 3D para diseñar nuevos productos que se acoplen a las necesidades de la organización/los usuarios?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+634,DESARROLLADOR JUNIOR,6,tech,.net,virtual,javascript,sql server,título,caja
+636,¿Cómo podríamos posicionar un nuevo producto en el mercado y el target al cual queremos llegar?,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+637,Asistente de recursos humanos semibilingüe,9,talent,procesos,in_house,finanzas,recursos humanos,entrenamiento,universidad
+638,Mercaderistas Cajicá,5,legal,empresa,"[""a""]",habilidades,transporte,experiencia,mercadeo
+641,Coordinador de desarrollo de Software,6,tech,fullstack,mixed,iso8583,oracle,webservice,líder de  desarrollo
+642,TINTAL LIDER DE SEGURIDAD Y SALUD EN EL TRABAJO,13,product,experiencia,in_house,control,indicadores,mejora,cultura
+643,Asistente de recursos humanos bilingüe- Inglés B2,9,talent,datos,in_house,seguridad,recursos,reclutamiento,herramientas
+645,Asesor de servicio al cliente (Horario lunes a sábado + variable),17,consumer,experiencia,"[""a""]",caja,servicio,transporte,servicio al cliente
+646,Profesional Centro San Francisco Javier,8,design,ciencias,"[""a""]",liderazgo,procesos,social,experiencia
+647,Gerente de Desarrollo de Aplicaciones,13,product,telecomunicaciones,"[""a""]",mantenimiento,gerencia de proyectos,empresa,digital
+649,Administrador,5,legal,trabajo,in_house,empresa,manejo,ventas,equipo
+650,Analista seguridad TI (monitoreo),13,product,mejora,in_house,servicios,eventos,gerencia,analizar
+651,¿Cómo podríamos obtener la información estratégica de nuestros usuarios para apoyar la toma de decisiones?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+652,Contador publico con experiencia en World ffice,16,finance,manejo,virtual,industrial,operaciones,herramientas,sistema
+653,146373-ANALISTA DE AUTOMATIZACION Y MEJORAMIENTO DE PROCESOS,6,tech,estrategia,virtual,compromiso,sistemas,procesos,desarrollar
+654,JOVENES PROFESIONALES | INDRA,6,tech,soporte puesto usuar,in_house,ofimatica,movilidad,seguridad,microsoft windows (b
+655,Ingeniero/a DevOps,6,tech,devops,virtual,jenkins,docker,aws,azure
+656,asesor servico al cliente call center contratacion inmediata,17,consumer,contratacion,"[""a""]",servicio,empresa,auxiliar administrativo,talento
+657,¿Cómo crear una solución tecnológica que facilite la gestión de la información de clientes y productos de manera que todos en la compañía puedan usarla?,3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+658,Diseñador auxiliar,8,design,auxiliar,virtual,solidworks,empresa,paquete,entrenamiento
+659,ASESOR COMERCIAL JUNIOR VIAJERO BOGOTA,19,sales,empresa,"[""a""]",comercial,comunicacion,seguridad,conocimiento
+660,"Auxiliar de Bodega, Almacén Logística (Picking) Norte de Bogotá",13,product,desarrollo,in_house,experiencia,excel,bienestar,bienestar
+661,"Auxiliar Bases de Datos - Experiencia muy enfocada en manejo de Excel avanzado, power pivot y hacer query - programación de datos lugar de trabajo Bogotá",13,product,publicidad,in_house,sistemas,desarrollo,power,experiencia
+663,¿Cómo podríamos garantizar la seguridad de un empleado en procesos con algún riesgo?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+664,¿Cómo podríamos reinventar el sistema de indicadores de personal para que fuera más certero y amable con el empleado?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+665,Regional Finance Senior Analyst,16,finance,responsabilidad,in_house,workplace,software,teams,financiera
+666,¿Cómo podríamos dar bienestar a nuestros empleados por medio de la creación de planes de formación?,10,education,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+668,Analista Marketing Digital,6,tech,estrategias,in_house,marketing,habilidades,presencial,redes
+669,Vicerrectora,8,design,trabajo,in_house,persona,experiencia,capacidad,liderazgo
+670,Auxiliar pedagógico - Jardines Bogotá,13,product,desarrollo,in_house,habilidades,experiencia,mercado,paquete
+672,Profesional II - Gestión Hospitalaria - 9221376,8,design,empresa,in_house,conocimiento,equipo,normatividad,procesos
+673,Ayudante de producción Sector industrial,13,product,recursos,in_house,empresa,procesos,equipo,trabajo
+674,¿Cómo podríamos certificar la transparencia del proceso de cálculo de la tarifa de energía  basados en la implementación de soluciones blockchain?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+675,Ingeniero Proyectista Facatativá,8,design,responsabilidad,in_house,lectura,desarrollo,herramientas,proyectos
+676,Ejecutivo de cuentas estatales,7,communications,paquete,in_house,desarrollo,no,informes,estrategias
+677,profesionales con experiencia auditando operaciones de servicio al cliente a travez de canales digitales,17,consumer,operaciones,in_house,servicio,experiencia,equipo,servicio al cliente
+678,Urgente Agente call center con o sin experiencia respuesta inmediata,5,legal,recursos humanos,virtual,trabajo,recursos,experiencia,equipo
+679,Operarios de Almacenamiento - Armenia,13,product,comercial,in_house,servicios,trabajo,talento,idiomas
+680,Asesor comercial Bodytech,19,sales,recursos,in_house,presencial,comercial,experiencia,ventas
+683,Auxiliar administrativo,16,finance,virtual,in_house,servicios,experiencia,administrativo,plataformas
+684,¿Como podríamos ayudar a los emprendedores y dueños de negocios informales a formalizar sus negocios y permanecer en la legalidad mediante estrategias o soluciones tecnológicas?,5,legal,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+685,Arquitecto - Arquitecto disenador junior,8,design,trabajo,in_house,experiencia,empresa,equipo,proyectos
+686,Administrador(a) de Bots,6,tech,rpa/chatbots,mixed,excel/macros,visualbasic.,java,python
+688,Cajero(a) temporada precios especiales-medellin,17,consumer,servicio,in_house,experiencia,analista,comercio,entrenamiento
+690,Analista De Gestión Y Control - Bogotá DC,13,product,proyectos,in_house,bases de datos,desarrollo,manejo,manejo de personal
+691,CHEF COMERCIAL - Bogotá,19,sales,empresa,"[""a""]",alimentos,equipo,comercial,trabajo
+694,Gestor Servicio al Cliente - Recepción,17,consumer,experiencia,"[""a""]",jenkins, no funcionales,auxiliar,datos
+695,¿Cómo podríamos disminuir de alguna forma el impacto ambiental en nuestra producción ?,1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+696,Gestora de Campo ( Enfermera) Popayan Excluyente,5,legal,procesos,in_house,control,entrenamiento,relaciones,social
+697,Desarrollador software JP| RUTA N,6,tech,desarrollador software jp,to_be_agreed,teams,relaciones,creatividad,auxiliar administrativo
+698,Ejecutiva Comercial,7,communications,comercial,"[""a""]",coaching,profesional,empresarial,capacidad
+699,Asesores comerciales,17,consumer,servicio,in_house,experiencia,analista,comercio,entrenamiento
+701,Asistente administrativa- En taller,16,finance,experiencia,"[""a""]",manejo,ideal,conocimiento,control
+702,Líder en Sistemas HSEQ,13,product,sistema,in_house,experiencia,proyectos,mantenimiento,salud
+703,Analista de mesa de ayuda-Soporte técnico Bilingüe,6,tech,experiencia,"[""a""]",proyectos,herramientas,cadena,digital
+704,Operarios Logístico / Operario de Bodega / Ayudante logístico Cupos Fijos,13,product,empresa,in_house,transporte,bienestar,servicios,experiencia
+705,Operador SOC,6,tech,manejo siem,in_house,jenkins,rest,compromiso,ninguna
+706,¿Cómo podríamos cautivar a nuestros clientes para comprar saldos de inventario?,19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+707,Especialista Opex y Capex,16,finance,responsabilidad,in_house,social,industrial,empresa,cultura
+708,Auxiliar de operaciones - Sector financiero (Bogotá),11,market,finanzas,"[""a""]",paquete office,financiero,servicios,financiera
+709,Analista de preventa,13,product,ventas,in_house,entrenamiento,herramientas,mercado,procesos
+712,¿Cómo podríamos diseñar un sistema de mentores internos para la organización?,10,education,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+713,Docente Diseño grafico,8,design,publicidad,in_house,profesional,equipo,redes,desarrollo
+714,Asesores Externos Agropecuarios - La Dorada,6,tech,experiencia,in_house,trabajo,equipo,virtual,ventas
+715,Desarrollador .NET,6,tech,webforms,mixed,.net,c#,.net core,java
+717,Demand Management Analyst,16,finance,liderazgo,in_house,sistema,work,planes,experiencia
+718,"¿Cómo podríamos mejorar el sistema de respuesta de peticiones, quejas y reclamos (PQR) para que el cliente tenga una mejor experiencia?",17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+719,¿Cómo podríamos iniciar mercados internacionales que respondan positivamente con los servicios/productos actuales?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+720,Líder de servicio al cliente,17,consumer,trabajo,in_house,recursos,servicio al cliente,experiencia,recursos humanos
+721,Analista Especializado de Seguridad Informática,6,tech,infraestructura,"[""a""]",seguridad,sistemas,no,equipo
+722,¿Cómo podríamos solucionar la falta de control que existe una cafetería?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+723,Como potenciar implementaciones de realidad virtual y aumentada en escenarios web y multijugador.,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+725,Director de marketing,7,communications,trabajo,in_house,comercio,experiencia,mercadeo,marketing
+727,Asesor Comercial Ventas Call Center (Hibrido),6,tech,cadena de suministro,in_house,transporte,experiencia,cadena,equipo
+728,Operarias logísticas único turno Sur de la ciudad,6,tech,trabajo,in_house,empresa,servicios,equipo,no
+731,"operarios de produccion convocatoria jueves 09 de marzo 2023 - Vivir en chía, Zipaquira o zonas aledañas",13,product,recursos,"[""a""]",empresa,servicio,produccion,experiencia
+732,"Aprendiz Universitario en Ingeniería de Diseño de Producto, Diseño Gráfico, Carreras Afines (35842)",8,design,estrategia,"[""a""]",aprendizaje,desarrollo,trabajo,indicadores
+733,Psicólogos con experiencia en Entrevistas - Manizalez,9,talent,procesos,in_house,experiencia,oracle,empresarial,redes
+734,Ingeniero de Desarrollo,13,product,trabajo,"[""a""]",experiencia,ingeniera,software,desarrollo
+735,Operarios de producción / Zipaquirá,13,product,recursos,"[""a""]",empresa,procesos,servicios,experiencia
+737,Como mejorar ante los constantes desafíos y cambios en la tecnología,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+738,Ejecutivo comercial proyectos de vivienda,19,sales,transporte,in_house,equipo,comercial,experiencia,ventas
+739,Psicólogo de Selección Organizacional,5,legal,procesos,"[""a""]",relaciones,experiencia,persona,reclutamiento
+740,Analista de la información,13,product,proyectos,in_house,profesional,conocimiento,desarrollo,bases de datos
+741,Líder de validación documental,9,talent,procesos,in_house,control,recursos humanos,recursos,seguridad
+742,Mercaderista medio tiempo-Armenia,13,product,talento,in_house,aprendizaje,empresa,comercial,desarrollo
+744,Mercaimpulsadora norte de la ciudad,7,communications,experiencia,"[""a""]",mercadeo,talento,programación,comercio
+745,¿Cómo podríamos disminuir los ausentismos en  nuestra organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+746,Como los puedo ayudar,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+748,¿Cómo podríamos facilitar la toma de decisiones en nuestra organización teniendo en cuenta la información generada por los usuarios en redes sociales?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+749,Ingeniero de Desarrollo,6,tech,software,in_house,aplicaciones,metodología agil,excel avanzado,redes
+750,¿Cómo podríamos incrementar la satisfacción de los clientes para disminuir el número de devoluciones de nuestros productos?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+751,Desarrollador | DCA Technology,6,tech,desarrollador,to_be_agreed,paquete,financiero,power bi,docente
+752,ESPECIALISTA DESARROLLO HUMANO ORGANIZACIONAL REGIONAL 224317-,9,talent,liderazgo,in_house,gerencia,desarrollo,bienestar,procesos
+753,¿Cómo podríamos mejorar la experiencia y la atención al usuario con la ayuda de BOTS?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+754,Cloud Engineer,6,tech,ingles,virtual,idiomas,soporte,capacidad,consulta
+755,Agente call center servicio al cliente,17,consumer,experiencia,"[""a""]",recursos humanos,servicio,servicio al cliente,recursos
+756,"¿Comó generar un impacto positivo en la comunidad del centro poblado Los Naranjales del municipio de Apartadó Antioquia, a nivel social y territorial?",1,rse,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+758,Supervisor/a o lider de producción,13,product,transporte,"[""a""]",conocimiento,profesional,manejo,indicadores
+760,DESARROLLADOR DE BACK-END MÓVIL,6,tech,java,mixed,api,rest,graphql,agile-scrum
+761,Socio(a) Estratégico(a) de Valor Humano (HRBP),7,communications,cinco,in_house,redes,social,responsabilidad,capacidad
+762,"¿Cómo podríamos transformar el proceso de inducción, haciéndolo más agradable para el nuevo trabajador?",9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+763,"operarios de produccion convocatoria jueves 26 de enero 2023 - Vivir en chía, Zipaquira o zonas aledañas",13,product,recursos,"[""a""]",empresa,servicio,produccion,experiencia
+764,Asesor Servicio al Cliente Presencial,17,consumer,internet,in_house,empresa,video,conocimiento,soporte
+765,Cajero,17,consumer,servicio,in_house,experiencia,tratamiento,.,persona
+766,Líder Comercial Antioquia - Importante Empresa Del Sector,19,sales,responsabilidad,virtual,empresa,alimentos,control,reclutamiento
+768,Gerente comercial,19,sales,experiencia,"[""a""]",equipo,recursos,manejo de personal,trabajo
+769,Operario de maquina,13,product,experiencia,"[""a""]",idiomas,soporte,capacidad,consulta
+770,Aprendiz de Procesos y Validaciones,6,tech,control,in_house,proyecto,proyectos,seguridad,normatividad
+771,cual es el primer paso para una entrevista,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+772,pasantes administrativos recursos humanos servicio al cliente a call center y carreras a fines,9,talent,experiencia,in_house,servicio,servicios,recursos humanos,servicio al cliente
+773,Ejecutivo Comercial B2B/ Bogota,19,sales,recursos,in_house,empresa,equipo,trabajo,recursos humanos
+774,Chat Customer Service Agent,17,consumer,experiencia,in_house,servicio,servicio al cliente,habilidades,no
+775,"Operario de producción - norte de Medellín (Bello, Copacabana, Girardota, Barbosa)",13,product,servicios,in_house,experiencia,empresa,paquete,jenkins
+776,Bilingual .NET developer,6,tech,software development,mixed,inglés avanzado-int,.net,c#,react.js
+779,Auxiliar administrativo/a con experiencia en recaudo-La Dorada,16,finance,servicio,in_house,herramientas,servicio al cliente,excel avanzado,auxiliar
+781,Soporte Técnico en Sitio,6,tech,soporte en sitio,in_house,soporte tecnico,soporte remoto,power,caja
+782,Administrador de Sede Funeraria Jardin - Antioquia,17,consumer,procesos,in_house,trabajo,manejo,excel,habilidades
+783,¿Cómo podríamos identificar nuevos proveedores que suplan las necesidades en los proyectos de nuestra organización?,3,suppliers,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+785,Encargado de tienda - Barranquilla,8,design,profesional,in_house,talento,cultura,coordinar,control
+786,Agente call center / Sac para Bodytech,17,consumer,no,in_house,servicio,ventas,experiencia,scrum.
+787,¿Cómo podríamos reutilizar uno de los materiales usados en la organización para disminuir el impacto ambiental?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+789,"¿Cómo podríamos disminuir el uso de papel en nuestros servicios, sin necesidad de disminuir la experiencia del usuario?",15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+790,PSICOLOGA SELECCION JUNIOR,5,legal,trabajo,in_house,reclutamiento,manejo,equipo,postgresql
+791,ASESOR CALL CENTER GAMMA,17,consumer,procesos,in_house,comercial,habilidades,seguridad,desarrollar
+792,"Auxiliar de almacén, aux logístico Día sin iva- con o sin experiencia, Zona norte",13,product,servicios,in_house,experiencia,transporte,excel,mysql
+795,Asistente Legal,5,legal,seguros,in_house,idiomas,mantenimiento,experiencia,power
+796,Coordinador de Comunicación y Sostenibilidad -Bogotá,5,legal,recursos humanos,in_house,recursos,experiencia,herramientas,equipo
+797,Director Grupo -  Jardines Bogotá,13,product,profesional,"[""a""]",desarrollo,experiencia,trabajo,entrenamiento
+798,¿Cómo podríamos crear un modelo de desarrollo de habilidades blandas en los empleados?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+799,Analista HSE,5,legal,sistemas,"[""a""]",riesgos,ambiental,recursos humanos,trabajo
+801,Especialista en reclutamiento y selección con Ingles intermedio o avanzado,9,talent,equipo,in_house,entrevistas,talento humano,talento,trabajo
+804,Diseñador textil Jr - Ropa Deportiva y Playa,8,design,profesional,in_house,presencial,industrial,ideal,control
+806,Asistente de Diseño,8,design,comercial,in_house,redes,experiencia,redes,power
+807,Ingeniero Desarrollador DevOps,6,tech,devops,in_house,reclutamiento,video,administrativo,universidad
+809,Aprendiz de Gestión Humana - Santa Marta,9,talent,auxiliar,"[""a""]",habilidades,contabilidad,equipo,conocimiento
+813,¿Cómo crear un nuevo modelo de ingresos para generar valor de formas alternas?,12,incomes,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+814,Asistente administrativo supernumerario sector salud- Bogotá,16,finance,manejo,in_house,experiencia,equipo,paquete,administrativo
+815,¿Cómo podríamos llegar con mayor facilidad a nuestros clientes por medio de experiencias sensoriales en puntos de venta?,19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+817,Analista de Crédito y cobranza,16,finance,conocimiento,virtual,contabilidad,experiencia,consulta,equipo
+818,Coordinador(a) Crm,11,market,experiencia,in_house,equipo,mercado,publicidad,analizar
+821,Asesor de Servicio al Cliente Multicanal - Bucaramanga (OLMED012),17,consumer,auxiliar,in_house,caja,trabajo en equipo,postgressql,transporte
+822,Ejecutivo Comercial,7,communications,trabajo,in_house,individual,empresa,equipo,ventas
+823,Operarios de Producción - bello,13,product,servicios,in_house,experiencia,trabajo,empresa,estrategia
+825,¿Como te ves a los 50 años?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+826,Practicante de comunicación,7,communications,recursos humanos,in_house,trabajo en equipo,trabajo,recursos,experiencia
+828,¿Como crear un aplicativo de escritorio para publicar y reservar hospedajes para una empresa?,6,tech,trabajo en equipo,to_be_agreed,java,python,programacion,diseño
+830,Coordinadora Gestión Humana - sector restaurantes,13,product,trabajo,in_house,presencial,experiencia,talento humano,cadena
+831,¿Que estrategia de negocio usan para llegar a ser la marca numero uno de motos en Colombia?,4,strategy,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+835,Analista de nomina,16,finance,cadena,in_house,experiencia,analista,trabajo,cadena de suministro
+836,Associate Consultant - Forensic Investigations,5,legal,individual,in_house,design,data,teams,servicios
+837,¿Cómo podríamos aplicar modelos de analítica para la toma decisiones?,4,strategy,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+838,¿Cómo podríamos mejorar la comunicación con nuestros clientes para tener un servicio más efectivo/cercano?,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+839,¿Cómo podríamos crear una estrategia para crear nuevos productos o procesos utilizando recursos que no sean de la organización?,4,strategy,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+844,GERENTE SR DE PRODUCCION,13,product,profesional,in_house,presupuestos,procesos,proyectos,calidad
+845,"Analista de Gestión humana - Procesos de contratación, nómina, seguridad social",9,talent,planes,in_house,normatividad,informes,social,trabajo
+846,Auxiliar administrativo,17,consumer,auxiliar administrativo,in_house,experiencia,manejo,auxiliar,empresa
+848,"Aprendiz Técnico- Gerencia Comercial Regional, Inclusión Caribe",8,design,ciencias sociales,in_house,financiero,aprendizaje,servicio,ciencias
+849,¿Cómo podríamos rediseñar nuestros servicios/productos para que puedan ser usados fácilmente por personas con discapacidad?,8,design,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+850,"Aprendiz Universitario en Administración de Empresas, Comunicación Social, Mercadeo (35322)",8,design,aprendizaje,in_house,bases,desarrollo,herramientas,experiencia
+851,Analista en gestión humana,9,talent,recursos,in_house,procesos,experiencia,indicadores,agile-scrum
+852,Gerente Territorial de Ventas [Bogotá],8,design,planes,in_house,ventas,procesos,reclutamiento,experiencia
+853,Analista de Recursos humanos,9,talent,empresarial,in_house,experiencia,recursos humanos,procesos,recursos
+856,Financial Project Analyst Intern,16,finance,project,"[""a""]",world,classroom,social,work
+858,¿Cómo podríamos acortar los tiempos de espera para acceder a los servicios de la organización?,15,quality,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+859,Como hago para que los constructores medianos y pequeños me compren cemento y me perciban como un aliado confiable y no como un mero vendedor?,12,incomes,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+860,Analista funcional 1,6,tech,manejo,virtual,proyecto,bienestar,servicio,planes
+861,Desarrollador Full Stack,6,tech,net core,to_be_agreed,postgresql,angular,full stack,ninguna
+862,"operarios de produccion convocatoria miercoles 9 de noviembre - Vivir en chía, Zipaquira o zonas aledañas",13,product,recursos,"[""a""]",empresa,servicio,produccion,experiencia
+864,Asesor de servicio al cliente (canal chat y redes sociales) - Se ofrece posibilidad de trabajo en casa.,17,consumer,caja,in_house,transporte,trabajo,telecomunicaciones,servicio al cliente
+866,Coordinador Comercial,19,sales,base de datos,in_house,industrial,redes,experiencia,datos
+868,Cajero Bancario - Bogotá,16,finance,servicio,"[""a""]",manejo,experiencia,financiera,comercio
+869,Contralor de proyectos - Barranquilla,13,product,servicio,in_house,empresa,normatividad,costos,proyectos
+870,Auxiliar de bodega - Bucaramanga Contratación Inmediata,5,legal,experiencia,in_house,transporte,perfil de cliente,transporte,idiomas
+872,Cajero bancario,16,finance,procesos,in_house,experiencia,manejo,trabajo,caja
+873,Analista de tesorería - Manejo de excel,16,finance,equipo,in_house,cadena,excel,financiera,caja
+875,Recepcionista - Disponibilidad Inmediata,5,legal,empresa,in_house,excel,habilidades,transporte,manejo
+876,Recepcionista,17,consumer,servicio,"[""a""]",experiencia,transporte,recepcionista,bienestar
+877,¿Cómo podríamos atraer nuevos talentos con ideas frescas que le den valor a nuestra organización?,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+879,Polifuncional de Tienda y Asesor de Clientes,17,consumer,servicio,in_house,caja,servicio al cliente,operaciones,talento
+880,Work From Home Client Marketing Manager / Ref. 1019E,11,market,software,in_house,teams,marketing,design,work
+881,Mesero/a para parque ecológico en Medellín,17,consumer,servicio,"[""a""]",recursos humanos,transporte,manejo,experiencia
+883,Ejecutivo de Cuenta - 8221292,11,market,empresa,in_house,comercial,salud,servicio,conocimiento
+884,HOST JUNIOR,13,product,alimentos,in_house,desarrollo,servicios,experiencia,postgresql
+886,Analista contable/ Servicio al cliente/ Medellín,17,consumer,experiencia,virtual,recursos humanos,manejo,empresa,equipo
+888,Entrenador Personalizado Bodytech - Cartagena,8,design,diseño,in_house,comercial,experiencia,entrenamiento,servicios
+889,Residente SST,5,legal,recursos humanos,in_house,trabajo,recursos,experiencia,bienestar
+890,Auxiliar de recursos humanos - para la ciudad de Cali,9,talent,equipo,in_house,profesional,desarrollar,experiencia,aprender
+892,Asesor de diseño - urgente,8,design,servicios,virtual,trabajo,experiencia,diseño,empresa
+893,Stefania Calderon - Gerente de Unidad en Formación - Bucaramanga,13,product,reclutamiento,in_house,cadena,profesional,cadena de suministro,liderazgo
+894,Como implementar GCP en el área logística,6,tech,googlecloudplatform,to_be_agreed,talento,talento humano,auxiliar administrativo,mercado
+895,Full Stack Sr,6,tech,cultura,"[""a""]",aprendizaje,desarrollo de software,conocimiento,proyecto
+896,¿Cómo podríamos lograr una transformación cultural positiva desde la tecnología en nuestra organización?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+898,Auxiliar de contratación,17,consumer,procesos,"[""a""]",social,administrativo,recursos,seguridad social
+899,¿Cómo podríamos vincular las áreas de organización a la necesidad especifica del usuario para  entender sus pain points (dolores) y así mejorar su experiencia?,17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+900,¿Como podríamos reducir el consumo energético en los procesos que requieran calor en las plantas de producción  Team foods?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+901,"Profesional Socio Empresarial – Cúcuta, Norte de Santander",16,finance,plataformas,in_house,mercadeo,informes,procesos,servicios
+902,Gestor de Prácticas Académicas,7,communications,compromiso,virtual,mejora,agilidad,calidad,habilidades
+903,¿Cómo podríamos mostrarle a nuestros clientes todos los productos de una forma dinámica e interactiva?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+904,Analista Tesorería,16,finance,experiencia,"[""a""]",equipo,analista,auxiliar administrativo,talento
+905,ANALISTA DE COMUNICACIONES,7,communications,informes,virtual,social,experiencia,calidad,mercadeo
+907,GERENTE COMERCIAL JUNIOR ( BELLEZA Y CUIDADO PERSONAL) RETAIL,13,product,publicidad,in_house,servicio,trabajar en equipo,relaciones,calidad
+911,Desarrolladores JAVA 2023,6,tech,decisiones,in_house,bienestar,servicios,manejo,bases
+912,"Tecnicos, Tecnologos o estudiantes de carreras administrativas y/o financieras para trabajar en entidad financiera - Bogotá",16,finance,financiera,virtual,caja,servicios,experiencia,servicio
+913,Auxiliar de salud oral - Tuluá Valle del Cauca,13,product,idiomas,in_house,servicios,trabajo,aprendizaje,experiencia
+915,Asistente Administrativo y Contable,6,tech,experiencia,virtual,aprendizaje,trabajo,negocios,afiliaciones
+916,Asistente de gestión humana,9,talent,recursos humanos,in_house,equipo,alimentos,empresa,experiencia
+917,Copy of Recepcionista Bilingue,17,consumer,manejo,"[""a""]",servicio,experiencia, css,ninguna
+918,ANALISTA DE CONOCIMIENTO DE CLIENTE,13,product,responsabilidad,virtual,coordinar,control,toma de decisiones,empresa
+919,ABOGADO JUNIOR - BOGOTÁ - 2179962,5,legal,procesos,in_house,negocios,aprendizaje,financiera,equipo
+920,Entrenador personalizado,8,design,diseño,virtual,equipo,trabajo,excel,reclutamiento
+921,¿Cómo podríamos optimizar el proceso de inventario con el uso de herramientas tecnológicas?,18,logistics,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+922,Analista de Seguridad de la Información,5,legal,cultura,in_house,seguridad,recursos,reclutamiento,servicios
+924,"¿Cómo podríamos aplicar el concepto ""gamificación"" para mejorar y hacer más entretenida la experiencia de los usuarios?",17,consumer,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+925,Promotora/vendedora deparrtamental,7,communications,experiencia,"[""a""]",compromiso,marketing,talento,ninguna
+926,¿Cómo podríamos crear un modelo de desarrollo de proveedores de la organización?,14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+928,PASANTÍA ACADÉMICA TECNOLOGÍA SURA- OCTUBRE 2023,6,tech,universidad,in_house,telecomunicaciones,infraestructura,sistemas,ninguna
+929,Especialista de Suscripcion Lineas Financieras,16,finance,derecho,in_house,equipo,estrategia,indicadores,comercial
+930,Analista De calidad - Tecnólogo Químico,6,tech,control de calidad,"[""a""]",trabajo,empresa,servicios,manejo
+931,Técnico/ tecnólogo en Soporte de TI – Disponibilidad para viajar a nivel Nacional,6,tech,servicio,"[""a""]",trabajo,soporte,proyecto,equipo
+933,¿Cómo podríamos cautivar a nuevos consumidores con los servicios ofrecidos actualmente?,11,market,lider,to_be_agreed,estrategia,diseño,telecomunicaciones,entrenamiento
+934,operarias auxiliares de panaderia y pasteleria / mujeres  -Norte de la cuidad,13,product,colaborativo,in_house,empresa,seguridad,desarrollo,calidad
+935,Asistente Comercial,6,tech,software,virtual,persona,capacidad,computadores,herramientas
+937,Analista Servicios GTI Conectividad,7,communications,redes,in_house,experiencia,sistemas,servicio,azure
+939,Operador Medios Tecnológicos Aeropuerto de Medellín 1/2 tiempo,17,consumer,servicio,in_house,experiencia,habilidades,manejo,persona
+940,Comprador,13,product,conocimiento,in_house,estrategia,ventas,desarrollo,liderazgo
+942,Entrenador Personalizado Bodytech - Cúcuta,8,design,ventas,in_house,servicios,trabajo,experiencia,entrenamiento
+943,"¿Cómo romper los esquemas de la educación superior, permitiendo que las nuevas juventudes sientan que están desarrollando sus propios sueños?",10,education,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+944,Auxiliar de recursos humanos,9,talent,equipo,in_house,procesos,recursos humanos,conocimiento,trabajo
+945,Diseñador grafico sector  Industrial,8,design,profesional,"[""a""]",diseño,empresa,desarrollo,experiencia
+946,Supervisor comercial Cadenas Retail Medellín conocimiento Excel avanzado,19,sales,empresa,in_house,estrategias,transporte,equipo,comercial
+947,"¿Cómo podríamos remplazar / optimizar la fuerza de ventas tradicional (visitadora, impulsadora) con una herramienta digital?",14,channels,internet,to_be_agreed,jenkins,aws vpc,webservice,idiomas
+948,¿Cómo podríamos implementar nuevos métodos para la tecnificación de los procesos productivos en la organización?,2,production,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+949,Comprador Oculto/ Bogotá,5,legal,empresa,in_house,equipo,compras,trabajo,transporte
+950,Supervisor logístico,5,legal,herramientas,in_house,cinco,persona,indicadores,manejo
+951,Atención al cliente cafetería,17,consumer,experiencia,"[""a""]",servicios,relaciones,programación,comercio
+954,Operarios de producción - Fontibón HB,13,product,recursos,in_house,experiencia,recursos humanos,empresa,jenkins
+955,Asesor integral - entidades financieras y/o Cooperativas.,16,finance,comercial,in_house,servicio,financiero,servicio al cliente,empresa
+956,Lider Comercial - Cali,19,sales,experiencia,in_house,no,servicios,tecnico,empresa
+959,Auxiliar Administrativo para Operaciones,17,consumer,transporte,in_house,administrativo,seguridad,experiencia,auxiliar
+960,¿Cómo podríamos informar al cliente de las mejoras realizadas en canales electrónicos gracias a sus sugerencias?,7,communications,sistema,to_be_agreed,servicio cliente,mejoramiento continuo,habilidades,docente
+961,Profesional en entrenamiento – Ingeniero de servicio para la ciudad de Bogotá,6,tech,eventos,virtual,servicios,conocimiento,servicio,soporte
+962,Marketing Coordinator,7,communications,bases,in_house,bases de datos,datos,capacidad,procesos
+963,Practicante Comunicaciones y Digital,8,design,mercadeo,in_house,reclutamiento,experiencia,social,empresa
+965,"¿Cómo podríamos mejorar la experiencia de nuestros usuarios de forma entretenida, en los momentos críticos de pago de productos?",19,sales,rpa/chatbots,to_be_agreed,relaciones,bases,postgressql,modelos
+966,Desarrollo de software,6,tech,desarrollo.net,to_be_agreed,soap,rest,sql server,agile-scrum
+967,"Profesional de Proyectos, coordinación",6,tech,auditoría documental,mixed,visitas de inspecció,responsable,.,jenkins
+968,Asistente de Tesorería y Cartera- Cali,16,finance,persona,in_house,servicios,comercio,experiencia,contabilidad
+970,Asistente de gestión humana,9,talent,empresa,in_house,recursos,office,experiencia,procesos
+972,ASESOR COMERCIAL CHOACHI,19,sales,seguros,in_house,equipo,servicios,negocios,experiencia
+973,Convocatoria Practicantes de Técnica Y Tecnología,6,tech,no,in_house,profesional,aprendizaje,desarrollo,equipo
+974,¿Cómo podríamos diseñar un sistema de mentores internos para la organización?,10,education,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+975,"operarios de produccion convocatoria miercoles 25 de enero 2023 - Vivir en chía, Zipaquira o zonas aledañas",13,product,recursos,"[""a""]",empresa,servicio,produccion,experiencia
+977,¿Cómo podríamos implementar modelos de Robotic Process Automatic (RPA) en los procesos de nuestra organización para las tareas manuales u operativas?,6,tech,auxiliar,to_be_agreed,azure,mejoramiento continuo,programación,azure
+978,Software Developer Senior,6,tech,capacidad,in_house,proyecto,servicios,calidad,trabajo
+980,AGENTE TÉCNICO CRIMINALISTICA 5549,5,legal,no,in_house,recursos,reclutamiento,herramientas,bienestar
+984,Analista de Marketing - Ingles B1 -B2,7,communications,comercial,in_house,empresa,equipo,industrial,trabajo
+985,Quality Coordinator Onsite,13,product,experiencia,"[""a""]",control,mejora,trabajo,normatividad
+986,"¿Cómo crear un modelo masivo de inclusión laboral para las áreas con más demanda en el mercado, basado en las habilidades que desarrollan personas con discapacidad?",10,education,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+991,Asesor comercial de Microcrédito- Pamplona,16,finance,financiera,in_house,comercial,profesional,bienestar,ventas
+992,Gerente de Oficina Microfinanzas - Riosucio,16,finance,no,in_house,financiera,azure architect,relaciones,experiencia de usuario
+993,Talento humabi,9,talent,mantenimiento,to_be_agreed,bases,excel,consulta,financiera
+994,asistente de recursos humanos en planta - cali,9,talent,empresa,"[""a""]",excel,profesional,manejo,experiencia
+995,"Ejecutivo Comercial Pyme / Experiencia en ventas en campo, B2B y venta consultiva",19,sales,presencial,in_house,ventas,equipo,servicios,trabajo
+997,Practicante universitario de Diseño Gráfico o Publicidad - Bogotá,8,design,profesional,in_house,aprendizaje,universidad,ideal,herramientas
+998,Director de Operaciones,7,communications,sistemas,"[""a""]",riesgos,liderazgo,recursos humanos,trabajo
